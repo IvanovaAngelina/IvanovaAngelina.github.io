@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HugoBlox Kit | </title>
-    <link>https://ivanovaangelina.github.io/tags/hugoblox-kit/</link>
-      <atom:link href="https://ivanovaangelina.github.io/tags/hugoblox-kit/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/hugoblox-kit/</link>
+      <atom:link href="http://localhost:1313/tags/hugoblox-kit/index.xml" rel="self" type="application/rss+xml" />
     <description>HugoBlox Kit</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ivanovaangelina.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>HugoBlox Kit</title>
-      <link>https://ivanovaangelina.github.io/tags/hugoblox-kit/</link>
+      <link>http://localhost:1313/tags/hugoblox-kit/</link>
     </image>
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>https://ivanovaangelina.github.io/blog/teach-courses/</link>
+      <link>http://localhost:1313/blog/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ivanovaangelina.github.io/blog/teach-courses/</guid>
+      <guid>http://localhost:1313/blog/teach-courses/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the HugoBlox Kit which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -57,7 +57,7 @@
   
 
   &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    &lt;span &gt;&lt;a href=&#34;https://ivanovaangelina.github.io/authors/me/&#34;&gt;Иванова Ангелина Олеговна&lt;/a&gt;&lt;/span&gt;&lt;span class=&#34;relative inline-block ml-1&#34; x-data=&#34;{ tooltip: false }&#34;&gt;
+    &lt;span &gt;&lt;a href=&#34;http://localhost:1313/authors/me/&#34;&gt;Иванова Ангелина Олеговна&lt;/a&gt;&lt;/span&gt;&lt;span class=&#34;relative inline-block ml-1&#34; x-data=&#34;{ tooltip: false }&#34;&gt;
           &lt;button
             @mouseenter=&#34;tooltip = true&#34;
             @mouseleave=&#34;tooltip = false&#34;
@@ -86,7 +86,7 @@
             Equal contribution
             &lt;div class=&#34;absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700&#34;&gt;&lt;/div&gt;
           &lt;/div&gt;
-        &lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ivanovaangelina.github.io/authors/robert-ford/&#34;&gt;Robert Ford&lt;/a&gt;&lt;/span&gt;&lt;span class=&#34;relative inline-block ml-1&#34; x-data=&#34;{ tooltip: false }&#34;&gt;
+        &lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;http://localhost:1313/authors/robert-ford/&#34;&gt;Robert Ford&lt;/a&gt;&lt;/span&gt;&lt;span class=&#34;relative inline-block ml-1&#34; x-data=&#34;{ tooltip: false }&#34;&gt;
           &lt;button
             @mouseenter=&#34;tooltip = true&#34;
             @mouseleave=&#34;tooltip = false&#34;
@@ -118,7 +118,7 @@
         &lt;/span&gt;
   &lt;/span&gt;
   (2013).
-  &lt;a href=&#34;https://ivanovaangelina.github.io/publications/conference-paper/&#34; class=&#34;underline&#34;&gt;An example conference paper&lt;/a&gt;.
+  &lt;a href=&#34;http://localhost:1313/publications/conference-paper/&#34; class=&#34;underline&#34;&gt;An example conference paper&lt;/a&gt;.
   In &lt;em&gt;ICW&lt;/em&gt;.
   
 
@@ -158,7 +158,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://ivanovaangelina.github.io/&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -327,7 +327,7 @@
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://ivanovaangelina.github.io/publications/conference-paper/conference-paper.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publications/conference-paper/conference-paper.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -441,7 +441,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://ivanovaangelina.github.io/blog/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/blog/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
