@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>О Прошедшей Неделе | </title>
-    <link>http://localhost:1313/tags/%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5/</link>
-      <atom:link href="http://localhost:1313/tags/%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ivanovaangelina.github.io/tags/%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5/</link>
+      <atom:link href="https://ivanovaangelina.github.io/tags/%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5/index.xml" rel="self" type="application/rss+xml" />
     <description>О Прошедшей Неделе</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>https://ivanovaangelina.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>О Прошедшей Неделе</title>
-      <link>http://localhost:1313/tags/%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5/</link>
+      <link>https://ivanovaangelina.github.io/tags/%D0%BE-%D0%BF%D1%80%D0%BE%D1%88%D0%B5%D0%B4%D1%88%D0%B5%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5/</link>
     </image>
     
     <item>
       <title>Успехи прошедшей недели</title>
-      <link>http://localhost:1313/publications/last-weak-16.03.26---22.03.26/</link>
+      <link>https://ivanovaangelina.github.io/publications/last-weak-16.03.26---22.03.26/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/last-weak-16.03.26---22.03.26/</guid>
+      <guid>https://ivanovaangelina.github.io/publications/last-weak-16.03.26---22.03.26/</guid>
       <description>&lt;p&gt;За эту неделю я сделала домашние задания по таким предметам как математический анализ, архитектура компьютера, а также дискретная математика. Также начала подкотовку к контрольной и коллоквиуму&lt;/p&gt;
 </description>
     </item>
