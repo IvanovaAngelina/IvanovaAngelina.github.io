@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Документация | </title>
+    <link>http://localhost:1313/tags/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/</link>
+      <atom:link href="http://localhost:1313/tags/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <description>Документация</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Документация</title>
+      <link>http://localhost:1313/tags/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/</link>
+    </image>
+    
+    <item>
+      <title>Язык разметки Markdown</title>
+      <link>http://localhost:1313/publications/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Markdown — это облегчённый язык разметки (lightweight markup language), предназначенный для структурирования и форматирования текстовой информации с использованием простого и интуитивно понятного синтаксиса. Он был разработан в 2004 году Джоном Грубером с целью создания формата, который остаётся легко читаемым в исходном виде и при этом может быть автоматически преобразован в HTML.&lt;/p&gt;
+&lt;h2 id=&#34;концептуальные-основы-markdown&#34;&gt;Концептуальные основы Markdown&lt;/h2&gt;
+&lt;p&gt;В отличие от традиционных языков разметки, таких как HTML или LaTeX, Markdown реализует принцип минимальной избыточности. Это означает, что текст, написанный в Markdown, должен быть понятен человеку без необходимости его предварительной обработки.&lt;/p&gt;
+&lt;p&gt;Ключевые принципы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;читаемость исходного текста&lt;/li&gt;
+&lt;li&gt;простота синтаксиса&lt;/li&gt;
+&lt;li&gt;переносимость между платформами&lt;/li&gt;
+&lt;li&gt;независимость от конкретного программного обеспечения&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;синтаксис-и-базовые-конструкции&#34;&gt;Синтаксис и базовые конструкции&lt;/h2&gt;
+&lt;p&gt;Markdown использует набор специальных символов для обозначения структурных элементов документа:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Заголовки (Headers)
+Обозначаются символом #, количество которых соответствует уровню заголовка:
+&lt;code&gt;# Заголовок 1&lt;/code&gt;
+&lt;code&gt;## Заголовок 2&lt;/code&gt;
+&lt;code&gt;### Заголовок 3&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Форматирование текста&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Курсив: &lt;code&gt;*текст* или _текст_&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Полужирный: &lt;code&gt;**текст** или __текст__&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Зачёркивание: &lt;code&gt;~~текст~~&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Списки&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Маркированные: &lt;code&gt;-, *, +&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Нумерованные: &lt;code&gt;1., 2. и т.д.&lt;/code&gt;
+Поддерживается вложенность списков.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Ссылки и изображения&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Ссылка: &lt;code&gt;[текст](URL)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Изображение: &lt;code&gt;![alt-текст](URL)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Кодовые элементы&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Встроенный код: &lt;code&gt;код&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Блок кода:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;многострочный код
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Цитаты
+&lt;code&gt;&amp;gt; цитата&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Горизонтальные линии
+&lt;code&gt;--- или ***&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;расширения-и-диалекты-markdown&#34;&gt;Расширения и диалекты Markdown&lt;/h2&gt;
+&lt;p&gt;С течением времени появились различные расширения Markdown, наиболее известным из которых является GitHub Flavored Markdown (GFM). Он добавляет:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;таблицы&lt;/li&gt;
+&lt;li&gt;чек-листы (- [ ])&lt;/li&gt;
+&lt;li&gt;автоматическое распознавание ссылок&lt;/li&gt;
+&lt;li&gt;подсветку синтаксиса кода&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Также существуют реализации, поддерживающие математические выражения, диаграммы и встроенный HTML.&lt;/p&gt;
+&lt;h2 id=&#34;применение-в-академическом-контексте&#34;&gt;Применение в академическом контексте&lt;/h2&gt;
+&lt;p&gt;Области применения&lt;/p&gt;
+&lt;p&gt;Markdown широко используется в различных профессиональных и академических контекстах:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;разработка программного обеспечения (документация, README-файлы)&lt;/li&gt;
+&lt;li&gt;научные заметки и публикации&lt;/li&gt;
+&lt;li&gt;системы управления знаниями (например, Zettelkasten)&lt;/li&gt;
+&lt;li&gt;образовательные платформы&lt;/li&gt;
+&lt;li&gt;статические генераторы сайтов (Jekyll, Hugo)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;преимущества-и-ограничения&#34;&gt;Преимущества и ограничения&lt;/h2&gt;
+&lt;p&gt;Преимущества:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;низкий порог входа&lt;/li&gt;
+&lt;li&gt;высокая скорость написания текстов&lt;/li&gt;
+&lt;li&gt;кроссплатформенность&lt;/li&gt;
+&lt;li&gt;удобство интеграции с системами контроля версий&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ограничения:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ограниченные возможности сложного форматирования&lt;/li&gt;
+&lt;li&gt;различия между реализациями Markdown&lt;/li&gt;
+&lt;li&gt;необходимость дополнительных инструментов для расширенных функций&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Markdown представляет собой эффективный инструмент для создания структурированных текстов, сочетающий простоту и функциональность. Его универсальность и широкая поддержка делают его важным элементом современной цифровой коммуникации и документации.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

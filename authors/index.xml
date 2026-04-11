@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>authors | </title>
-    <link>https://ivanovaangelina.github.io/authors/</link>
-      <atom:link href="https://ivanovaangelina.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/authors/</link>
+      <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>authors</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ivanovaangelina.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>authors</title>
-      <link>https://ivanovaangelina.github.io/authors/</link>
+      <link>http://localhost:1313/authors/</link>
     </image>
     
   </channel>

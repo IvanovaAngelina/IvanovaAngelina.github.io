@@ -2,21 +2,127 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown | </title>
-    <link>https://ivanovaangelina.github.io/tags/markdown/</link>
-      <atom:link href="https://ivanovaangelina.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/markdown/</link>
+      <atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ivanovaangelina.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Markdown</title>
-      <link>https://ivanovaangelina.github.io/tags/markdown/</link>
+      <link>http://localhost:1313/tags/markdown/</link>
     </image>
     
     <item>
+      <title>Язык разметки Markdown</title>
+      <link>http://localhost:1313/publications/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Markdown — это облегчённый язык разметки (lightweight markup language), предназначенный для структурирования и форматирования текстовой информации с использованием простого и интуитивно понятного синтаксиса. Он был разработан в 2004 году Джоном Грубером с целью создания формата, который остаётся легко читаемым в исходном виде и при этом может быть автоматически преобразован в HTML.&lt;/p&gt;
+&lt;h2 id=&#34;концептуальные-основы-markdown&#34;&gt;Концептуальные основы Markdown&lt;/h2&gt;
+&lt;p&gt;В отличие от традиционных языков разметки, таких как HTML или LaTeX, Markdown реализует принцип минимальной избыточности. Это означает, что текст, написанный в Markdown, должен быть понятен человеку без необходимости его предварительной обработки.&lt;/p&gt;
+&lt;p&gt;Ключевые принципы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;читаемость исходного текста&lt;/li&gt;
+&lt;li&gt;простота синтаксиса&lt;/li&gt;
+&lt;li&gt;переносимость между платформами&lt;/li&gt;
+&lt;li&gt;независимость от конкретного программного обеспечения&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;синтаксис-и-базовые-конструкции&#34;&gt;Синтаксис и базовые конструкции&lt;/h2&gt;
+&lt;p&gt;Markdown использует набор специальных символов для обозначения структурных элементов документа:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Заголовки (Headers)
+Обозначаются символом #, количество которых соответствует уровню заголовка:
+&lt;code&gt;# Заголовок 1&lt;/code&gt;
+&lt;code&gt;## Заголовок 2&lt;/code&gt;
+&lt;code&gt;### Заголовок 3&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Форматирование текста&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Курсив: &lt;code&gt;*текст* или _текст_&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Полужирный: &lt;code&gt;**текст** или __текст__&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Зачёркивание: &lt;code&gt;~~текст~~&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Списки&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Маркированные: &lt;code&gt;-, *, +&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Нумерованные: &lt;code&gt;1., 2. и т.д.&lt;/code&gt;
+Поддерживается вложенность списков.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Ссылки и изображения&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Ссылка: &lt;code&gt;[текст](URL)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Изображение: &lt;code&gt;![alt-текст](URL)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Кодовые элементы&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Встроенный код: &lt;code&gt;код&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Блок кода:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;многострочный код
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Цитаты
+&lt;code&gt;&amp;gt; цитата&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Горизонтальные линии
+&lt;code&gt;--- или ***&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;расширения-и-диалекты-markdown&#34;&gt;Расширения и диалекты Markdown&lt;/h2&gt;
+&lt;p&gt;С течением времени появились различные расширения Markdown, наиболее известным из которых является GitHub Flavored Markdown (GFM). Он добавляет:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;таблицы&lt;/li&gt;
+&lt;li&gt;чек-листы (- [ ])&lt;/li&gt;
+&lt;li&gt;автоматическое распознавание ссылок&lt;/li&gt;
+&lt;li&gt;подсветку синтаксиса кода&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Также существуют реализации, поддерживающие математические выражения, диаграммы и встроенный HTML.&lt;/p&gt;
+&lt;h2 id=&#34;применение-в-академическом-контексте&#34;&gt;Применение в академическом контексте&lt;/h2&gt;
+&lt;p&gt;Области применения&lt;/p&gt;
+&lt;p&gt;Markdown широко используется в различных профессиональных и академических контекстах:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;разработка программного обеспечения (документация, README-файлы)&lt;/li&gt;
+&lt;li&gt;научные заметки и публикации&lt;/li&gt;
+&lt;li&gt;системы управления знаниями (например, Zettelkasten)&lt;/li&gt;
+&lt;li&gt;образовательные платформы&lt;/li&gt;
+&lt;li&gt;статические генераторы сайтов (Jekyll, Hugo)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;преимущества-и-ограничения&#34;&gt;Преимущества и ограничения&lt;/h2&gt;
+&lt;p&gt;Преимущества:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;низкий порог входа&lt;/li&gt;
+&lt;li&gt;высокая скорость написания текстов&lt;/li&gt;
+&lt;li&gt;кроссплатформенность&lt;/li&gt;
+&lt;li&gt;удобство интеграции с системами контроля версий&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ограничения:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ограниченные возможности сложного форматирования&lt;/li&gt;
+&lt;li&gt;различия между реализациями Markdown&lt;/li&gt;
+&lt;li&gt;необходимость дополнительных инструментов для расширенных функций&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Markdown представляет собой эффективный инструмент для создания структурированных текстов, сочетающий простоту и функциональность. Его универсальность и широкая поддержка делают его важным элементом современной цифровой коммуникации и документации.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
-      <link>https://ivanovaangelina.github.io/blog/get-started/</link>
+      <link>http://localhost:1313/blog/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ivanovaangelina.github.io/blog/get-started/</guid>
+      <guid>http://localhost:1313/blog/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -303,33 +409,33 @@
     
     <item>
       <title>Pandas</title>
-      <link>https://ivanovaangelina.github.io/projects/pandas/</link>
+      <link>http://localhost:1313/projects/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ivanovaangelina.github.io/projects/pandas/</guid>
+      <guid>http://localhost:1313/projects/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>https://ivanovaangelina.github.io/projects/pytorch/</link>
+      <link>http://localhost:1313/projects/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ivanovaangelina.github.io/projects/pytorch/</guid>
+      <guid>http://localhost:1313/projects/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>https://ivanovaangelina.github.io/projects/scikit/</link>
+      <link>http://localhost:1313/projects/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ivanovaangelina.github.io/projects/scikit/</guid>
+      <guid>http://localhost:1313/projects/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>https://ivanovaangelina.github.io/blog/second-brain/</link>
+      <link>http://localhost:1313/blog/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ivanovaangelina.github.io/blog/second-brain/</guid>
+      <guid>http://localhost:1313/blog/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -513,9 +619,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>https://ivanovaangelina.github.io/blog/data-visualization/</link>
+      <link>http://localhost:1313/blog/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ivanovaangelina.github.io/blog/data-visualization/</guid>
+      <guid>http://localhost:1313/blog/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;embed-rich-content&#34;&gt;Embed Rich Content&lt;/h2&gt;
@@ -780,9 +886,9 @@ This Hugging Face dataset is a mirror. For the …
     &lt;div class=&#34;p-6 space-y-4&#34;&gt;
       &lt;div class=&#34;mb-4 overflow-hidden rounded-lg&#34;&gt;
     &lt;img class=&#34;w-full h-auto transition-transform duration-500 ease-out group-hover:scale-105&#34; 
-         srcset=&#34;https://ivanovaangelina.github.io/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_7c46951a400bfafd.webp 400w, https://ivanovaangelina.github.io/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_a2515a8519f2e06c.webp 600w, https://ivanovaangelina.github.io/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_6070a0ac5065dcdd.webp 800w, https://ivanovaangelina.github.io/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_8ee7b684023bdcd.webp 800w&#34;
+         srcset=&#34;http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_7c46951a400bfafd.webp 400w, http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_a2515a8519f2e06c.webp 600w, http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_6070a0ac5065dcdd.webp 800w, http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_8ee7b684023bdcd.webp 800w&#34;
          sizes=&#34;(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw&#34;
-         src=&#34;https://ivanovaangelina.github.io/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_7c46951a400bfafd.webp&#34; 
+         src=&#34;http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_7c46951a400bfafd.webp&#34; 
          width=&#34;400&#34; 
          height=&#34;300&#34;
          loading=&#34;lazy&#34; 
@@ -842,9 +948,9 @@ This Hugging Face dataset is a mirror. For the …
     &lt;div class=&#34;p-6 space-y-4&#34;&gt;
       &lt;div class=&#34;mb-4 overflow-hidden rounded-lg&#34;&gt;
     &lt;img class=&#34;w-full h-auto transition-transform duration-500 ease-out group-hover:scale-105&#34; 
-         srcset=&#34;https://ivanovaangelina.github.io/photo-1551288049-bebda4e38f71_10164962980614054447_hu_57b09d239a98fa3e.webp 400w, https://ivanovaangelina.github.io/photo-1551288049-bebda4e38f71_10164962980614054447_hu_c8dc855a23876ee0.webp 600w, https://ivanovaangelina.github.io/photo-1551288049-bebda4e38f71_10164962980614054447_hu_e954403c57038f5.webp 600w&#34;
+         srcset=&#34;http://localhost:1313/photo-1551288049-bebda4e38f71_10164962980614054447_hu_57b09d239a98fa3e.webp 400w, http://localhost:1313/photo-1551288049-bebda4e38f71_10164962980614054447_hu_c8dc855a23876ee0.webp 600w, http://localhost:1313/photo-1551288049-bebda4e38f71_10164962980614054447_hu_e954403c57038f5.webp 600w&#34;
          sizes=&#34;(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw&#34;
-         src=&#34;https://ivanovaangelina.github.io/photo-1551288049-bebda4e38f71_10164962980614054447_hu_57b09d239a98fa3e.webp&#34; 
+         src=&#34;http://localhost:1313/photo-1551288049-bebda4e38f71_10164962980614054447_hu_57b09d239a98fa3e.webp&#34; 
          width=&#34;400&#34; 
          height=&#34;267&#34;
          loading=&#34;lazy&#34; 
@@ -884,7 +990,7 @@ This Hugging Face dataset is a mirror. For the …
 
 
 
-&lt;div id=&#34;chart-418563792&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-726453819&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -902,7 +1008,7 @@ This Hugging Face dataset is a mirror. For the …
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-418563792&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-726453819&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1085,7 +1191,7 @@ Crash --&gt; [*]
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-f6d402d3e0ef4f7871a71f74ddcbf5cc&#34;
-    href=&#34;https://ivanovaangelina.github.io/&#34;
+    href=&#34;http://localhost:1313/&#34;
     
     
     
@@ -1170,7 +1276,7 @@ Crash --&gt; [*]
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-73171eb1b49c461e90dab01f45a3397d&#34;
-    href=&#34;https://ivanovaangelina.github.io/data/results.csv&#34;
+    href=&#34;http://localhost:1313/data/results.csv&#34;
     
     
     
@@ -1293,9 +1399,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>https://ivanovaangelina.github.io/blog/teach-courses/</link>
+      <link>http://localhost:1313/blog/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ivanovaangelina.github.io/blog/teach-courses/</guid>
+      <guid>http://localhost:1313/blog/teach-courses/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the HugoBlox Kit which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -1325,359 +1431,6 @@ Crash --&gt; [*]
 
 
   
-
-
-
-
-&lt;div class=&#34;pub-list-item view-citation&#34; style=&#34;margin-bottom: 1rem&#34;&gt;
-  &lt;i class=&#34;far fa-file-alt pub-icon&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt;
-
-  
-  
-
-  &lt;span class=&#34;article-metadata li-cite-author&#34;&gt;
-    &lt;span &gt;&lt;a href=&#34;https://ivanovaangelina.github.io/authors/me/&#34;&gt;Иванова Ангелина Олеговна&lt;/a&gt;&lt;/span&gt;&lt;span class=&#34;relative inline-block ml-1&#34; x-data=&#34;{ tooltip: false }&#34;&gt;
-          &lt;button
-            @mouseenter=&#34;tooltip = true&#34;
-            @mouseleave=&#34;tooltip = false&#34;
-            @click=&#34;tooltip = !tooltip&#34;
-            class=&#34;author-notes text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200 transition-colors cursor-help&#34;
-            data-tooltip=&#34;Equal contribution&#34;
-            aria-label=&#34;Equal contribution&#34;
-            type=&#34;button&#34;
-          &gt;
-            &lt;svg class=&#34;inline-block w-4 h-4&#34; fill=&#34;currentColor&#34; viewBox=&#34;0 0 20 20&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
-              &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z&#34; clip-rule=&#34;evenodd&#34;&gt;&lt;/path&gt;
-            &lt;/svg&gt;
-          &lt;/button&gt;
-          &lt;div
-            x-show=&#34;tooltip&#34;
-            x-transition:enter=&#34;transition ease-out duration-200&#34;
-            x-transition:enter-start=&#34;opacity-0 transform scale-95&#34;
-            x-transition:enter-end=&#34;opacity-100 transform scale-100&#34;
-            x-transition:leave=&#34;transition ease-in duration-150&#34;
-            x-transition:leave-start=&#34;opacity-100 transform scale-100&#34;
-            x-transition:leave-end=&#34;opacity-0 transform scale-95&#34;
-            @click.away=&#34;tooltip = false&#34;
-            class=&#34;absolute z-50 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 text-sm text-white bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg whitespace-nowrap&#34;
-            x-cloak
-          &gt;
-            Equal contribution
-            &lt;div class=&#34;absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700&#34;&gt;&lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/span&gt;, &lt;span &gt;&lt;a href=&#34;https://ivanovaangelina.github.io/authors/robert-ford/&#34;&gt;Robert Ford&lt;/a&gt;&lt;/span&gt;&lt;span class=&#34;relative inline-block ml-1&#34; x-data=&#34;{ tooltip: false }&#34;&gt;
-          &lt;button
-            @mouseenter=&#34;tooltip = true&#34;
-            @mouseleave=&#34;tooltip = false&#34;
-            @click=&#34;tooltip = !tooltip&#34;
-            class=&#34;author-notes text-primary-600 dark:text-primary-400 hover:text-primary-800 dark:hover:text-primary-200 transition-colors cursor-help&#34;
-            data-tooltip=&#34;Equal contribution&#34;
-            aria-label=&#34;Equal contribution&#34;
-            type=&#34;button&#34;
-          &gt;
-            &lt;svg class=&#34;inline-block w-4 h-4&#34; fill=&#34;currentColor&#34; viewBox=&#34;0 0 20 20&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
-              &lt;path fill-rule=&#34;evenodd&#34; d=&#34;M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z&#34; clip-rule=&#34;evenodd&#34;&gt;&lt;/path&gt;
-            &lt;/svg&gt;
-          &lt;/button&gt;
-          &lt;div
-            x-show=&#34;tooltip&#34;
-            x-transition:enter=&#34;transition ease-out duration-200&#34;
-            x-transition:enter-start=&#34;opacity-0 transform scale-95&#34;
-            x-transition:enter-end=&#34;opacity-100 transform scale-100&#34;
-            x-transition:leave=&#34;transition ease-in duration-150&#34;
-            x-transition:leave-start=&#34;opacity-100 transform scale-100&#34;
-            x-transition:leave-end=&#34;opacity-0 transform scale-95&#34;
-            @click.away=&#34;tooltip = false&#34;
-            class=&#34;absolute z-50 bottom-full left-1/2 transform -translate-x-1/2 mb-2 px-3 py-2 text-sm text-white bg-gray-900 dark:bg-gray-700 rounded-lg shadow-lg whitespace-nowrap&#34;
-            x-cloak
-          &gt;
-            Equal contribution
-            &lt;div class=&#34;absolute top-full left-1/2 transform -translate-x-1/2 -mt-1 w-0 h-0 border-l-4 border-r-4 border-t-4 border-transparent border-t-gray-900 dark:border-t-gray-700&#34;&gt;&lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/span&gt;
-  &lt;/span&gt;
-  (2013).
-  &lt;a href=&#34;https://ivanovaangelina.github.io/publications/conference-paper/&#34; class=&#34;underline&#34;&gt;An example conference paper&lt;/a&gt;.
-  In &lt;em&gt;ICW&lt;/em&gt;.
-  
-
-  
-  &lt;div class=&#34;flex flex-wrap space-x-3&#34;&gt;
-    
-
-
-
-
-
-
-
-
- 
-
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://ivanovaangelina.github.io/&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://github.com/HugoBlox/kit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5&#34;/&gt;&lt;/svg&gt;
-        Code
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://github.com/HugoBlox/kit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
-        Dataset
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://www.slideshare.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M3.75 3v11.25A2.25 2.25 0 0 0 6 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0 1 18 16.5h-2.25m-7.5 0h7.5m-7.5 0l-1 3m8.5-3l1 3m0 0l.5 1.5m-.5-1.5h-9.5m0 0l-.5 1.5M9 11.25v1.5M12 9v3.75m3-6v6&#34;/&gt;&lt;/svg&gt;
-        Slides
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://github.com/HugoBlox/kit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        Source Document
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://youtube.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m15.75 10.5l4.72-4.72a.75.75 0 0 1 1.28.53v11.38a.75.75 0 0 1-1.28.53l-4.72-4.72M4.5 18.75h9a2.25 2.25 0 0 0 2.25-2.25v-9a2.25 2.25 0 0 0-2.25-2.25h-9A2.25 2.25 0 0 0 2.25 7.5v9a2.25 2.25 0 0 0 2.25 2.25Z&#34;/&gt;&lt;/svg&gt;
-        Video
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://ivanovaangelina.github.io/publications/conference-paper/conference-paper.pdf&#34;  &gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
-        PDF
-      &lt;/a&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-        
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publications/conference-paper/cite.bib&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
-        &lt;span&gt;Cite&lt;/span&gt;
-      &lt;/button&gt;
-    
-  
-
-  
-    
-    
-    
-    
-    
-    
-      
-      
-    
-
-    
-    
-    
-      
-        
-      
-    
-    
-
-    
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;https://doi.org/10.5555/123456&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
-        &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244&#34;/&gt;&lt;/svg&gt;
-        DOI
-      &lt;/a&gt;
-    
-  
-
-
-  &lt;/div&gt;
-  
-
-  
-  
-&lt;/div&gt;
-
 
 
 &lt;h2 id=&#34;video&#34;&gt;Video&lt;/h2&gt;
@@ -1720,7 +1473,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://ivanovaangelina.github.io/blog/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/blog/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -1779,9 +1532,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>https://ivanovaangelina.github.io/blog/project-management/</link>
+      <link>http://localhost:1313/blog/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://ivanovaangelina.github.io/blog/project-management/</guid>
+      <guid>http://localhost:1313/blog/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -1854,9 +1607,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Create Beautiful Presentations with Markdown</title>
-      <link>https://ivanovaangelina.github.io/events/example/</link>
+      <link>http://localhost:1313/events/example/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://ivanovaangelina.github.io/events/example/</guid>
+      <guid>http://localhost:1313/events/example/</guid>
       <description>&lt;h2 id=&#34;-why-markdown-slides&#34;&gt;🎯 Why Markdown Slides?&lt;/h2&gt;
 
 
@@ -2341,7 +2094,7 @@ Navigate down for sub-topics!&lt;/p&gt;
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-7519dfcc27cf03dd985a63a0b9a6155b&#34;
-    href=&#34;https://ivanovaangelina.github.io/slides/example/&#34;
+    href=&#34;http://localhost:1313/slides/example/&#34;
     target=&#34;_blank&#34;
     rel=&#34;noopener&#34;
     
