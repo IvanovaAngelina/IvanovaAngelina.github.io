@@ -1,0 +1,2941 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vim | </title>
+    <link>http://localhost:1313/tags/vim/</link>
+      <atom:link href="http://localhost:1313/tags/vim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vim</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <title>Vim</title>
+      <link>http://localhost:1313/tags/vim/</link>
+    </image>
+    
+    <item>
+      <title>Прохождение курса «Введение в Linux» на Stepik</title>
+      <link>http://localhost:1313/projects/stepik/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/stepik/</guid>
+      <description>&lt;h1 id=&#34;проект-освоение-linux-на-платформе-stepik&#34;&gt;Проект: освоение Linux на платформе Stepik&lt;/h1&gt;
+&lt;p&gt;В данном проекте описан процесс выполнения внешнего курса «Введение в Linux» (
+. Курс состоит из трёх этапов, каждый из которых включает теоретические материалы, практические задания и контрольные вопросы. Ниже представлены подробные отчёты о прохождении каждого этапа с иллюстрациями из личного кабинета.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;этап-1-введение&#34;&gt;Этап 1. Введение&lt;/h2&gt;
+&lt;h3 id=&#34;цель-работы&#34;&gt;Цель работы&lt;/h3&gt;
+&lt;p&gt;Целью данной работы является выполнение внешнего курса под названием &amp;ldquo;Введение в Linux&amp;rdquo;.&lt;/p&gt;
+&lt;h3 id=&#34;задание&#34;&gt;Задание&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Ознакомиться с теоретическим материалом&lt;/li&gt;
+&lt;li&gt;Ответить на вопросы и выполнить задания для закрепления теоретического материала&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;выполнение-лабораторной-работы&#34;&gt;Выполнение лабораторной работы&lt;/h3&gt;
+&lt;h4 id=&#34;выполнение-11-общая-информация-о-курсе&#34;&gt;Выполнение 1.1. Общая информация о курсе&lt;/h4&gt;
+&lt;p&gt;В первом подблоке этого этапа представленны наипростейшие задания, которые не требуют пояснений и служат только ради того, чтобы ознакомить нас со структурой курса.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Название курса - &amp;ldquo;Введение в Linux&amp;rdquo;&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_1_hu_9b21ee5678e72238.webp 320w, http://localhost:1313/projects/stepik/images/stage1_1_hu_8c306ec89449b775.webp 480w, http://localhost:1313/projects/stepik/images/stage1_1_hu_7d92f6699137f121.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_1_hu_9b21ee5678e72238.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Выбрали все истинные утверждения&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_2_hu_38aca94333f2e3e9.webp 320w, http://localhost:1313/projects/stepik/images/stage1_2_hu_68f6636d32a1a476.webp 480w, http://localhost:1313/projects/stepik/images/stage1_2_hu_1d4868bb191bf1d4.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_2_hu_38aca94333f2e3e9.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;624&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-12-как-установить-linux&#34;&gt;Выполнение 1.2. Как установить Linux&lt;/h4&gt;
+&lt;p&gt;Аналогично с первым подблоком, во втором представленны наипростейшие задания, которые не требуют пояснений&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Мною используютя ос Windows и Linux&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_3_hu_e4e1c6d4a9ec2668.webp 320w, http://localhost:1313/projects/stepik/images/stage1_3_hu_68d2b9428ab5c7b1.webp 480w, http://localhost:1313/projects/stepik/images/stage1_3_hu_bcf180e7211615ed.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_3_hu_e4e1c6d4a9ec2668.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;346&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Виртуальная машина - специальная программа для запуска одной ОС на другой ОС&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_4_hu_733fa407cdb1ea8.webp 320w, http://localhost:1313/projects/stepik/images/stage1_4_hu_d7d04e513895a6a2.webp 480w, http://localhost:1313/projects/stepik/images/stage1_4_hu_ae2e80edcf7275f5.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_4_hu_733fa407cdb1ea8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;346&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Да, смогла запустить Linux&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_5_hu_b78fa4b29633b2cc.webp 320w, http://localhost:1313/projects/stepik/images/stage1_5_hu_3e3b37a7c90a4195.webp 480w, http://localhost:1313/projects/stepik/images/stage1_5_hu_b31e381e8eb2729d.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_5_hu_b78fa4b29633b2cc.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;289&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-13-осваиваем-linux&#34;&gt;Выполнение 1.3. Осваиваем Linux&lt;/h4&gt;
+&lt;p&gt;Создали документ в LibreOffice Writer и написали в нём шрифтом FreeMono строчку: Hello, Linux!&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Файл&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_6_hu_c8dfbf9e6deda1a8.webp 320w, http://localhost:1313/projects/stepik/images/stage1_6_hu_7bc3deddb57f93ed.webp 480w, http://localhost:1313/projects/stepik/images/stage1_6_hu_87d0bb1f928f1033.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_6_hu_c8dfbf9e6deda1a8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;344&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;После этого сохранили этот документ в формате FODT и загрузили в форму.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Загруженный файл&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_7_hu_81eb815e08303947.webp 320w, http://localhost:1313/projects/stepik/images/stage1_7_hu_ffa492b90b964944.webp 480w, http://localhost:1313/projects/stepik/images/stage1_7_hu_924857fef28aaad1.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_7_hu_81eb815e08303947.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;564&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Установочные пакеты в Linux (Ubuntu) имеют расширение .deb.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Правильный ответ - расширение .deb&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_8_hu_c3c4a14369ae2a31.webp 320w, http://localhost:1313/projects/stepik/images/stage1_8_hu_ea97b2c676c993cf.webp 480w, http://localhost:1313/projects/stepik/images/stage1_8_hu_f35f2a9d7a82d899.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_8_hu_c3c4a14369ae2a31.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;356&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Запустили плеер VLC, открыли Help → About, зашли во вкладку Authors.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Вкладка Authors&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_9_hu_db85fe789f19f35a.webp 320w, http://localhost:1313/projects/stepik/images/stage1_9_hu_8f58ed819c4206e4.webp 480w, http://localhost:1313/projects/stepik/images/stage1_9_hu_f2df6712b8ad6e1b.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_9_hu_db85fe789f19f35a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;384&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Первая фамилия - Denis-Courmont. Ввели её на сайте.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Правильный ответ - Denis-Courmont&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_10_hu_d6a11c9f1ce59695.webp 320w, http://localhost:1313/projects/stepik/images/stage1_10_hu_7f848e620ebfdb8b.webp 480w, http://localhost:1313/projects/stepik/images/stage1_10_hu_9187ace1971b44be.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_10_hu_d6a11c9f1ce59695.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;356&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Update Manager отвечает именно за обновление пакетов до актуальных версий, обновление всей системы до новой версии и ссылок в Software Center, но не устанавливает новые программы и не удаляет существующие.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Выбранные правильные ответы&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_11_hu_5f94082fc5351045.webp 320w, http://localhost:1313/projects/stepik/images/stage1_11_hu_1c25776c27251b4a.webp 480w, http://localhost:1313/projects/stepik/images/stage1_11_hu_c4bd62c92c33ff54.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_11_hu_5f94082fc5351045.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;356&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-14-командная-строка-основные-понятия-и-простые-команды&#34;&gt;Выполнение 1.4. Командная строка: основные понятия и простые команды&lt;/h4&gt;
+&lt;p&gt;Синонимами «командной строки» являются «терминал» и «консоль». Слово «термин» означает научное понятие, а «Ассоль» — имя литературного персонажа, поэтому они не подходят.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Синонимы командной строки&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_12_hu_2302f2acc2d32c06.webp 320w, http://localhost:1313/projects/stepik/images/stage1_12_hu_a813cf0b32b3e6a6.webp 480w, http://localhost:1313/projects/stepik/images/stage1_12_hu_a418e8fc91515fd6.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_12_hu_2302f2acc2d32c06.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;328&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Linux чувствителен к регистру, поэтому варианты &amp;ldquo;Pwd&amp;rdquo; или &amp;ldquo;PWD&amp;rdquo; некорректны. Правильный ответ: «Только pwd».&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Команда pwd&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_13_hu_af07923d3bb7c478.webp 320w, http://localhost:1313/projects/stepik/images/stage1_13_hu_f54d4e23a62a80b9.webp 480w, http://localhost:1313/projects/stepik/images/stage1_13_hu_ff3a5110639b355b.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_13_hu_af07923d3bb7c478.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;328&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Следующая задача требовала найти команды, эквивалентные &amp;ldquo;ls -A &amp;ndash;human-readable -l /some/directory&amp;rdquo;. Были отмечены варианты, где &amp;ldquo;-A&amp;rdquo; (или &amp;ldquo;&amp;ndash;almost-all&amp;rdquo;), &amp;ldquo;-h&amp;rdquo; (или &amp;ldquo;&amp;ndash;human-readable&amp;rdquo;), &amp;ldquo;-l&amp;rdquo; комбинируются в любом порядке.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Эквивалентные команды ls&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_14_hu_a73a561b03bd95ad.webp 320w, http://localhost:1313/projects/stepik/images/stage1_14_hu_cdb037f920f51ebd.webp 480w, http://localhost:1313/projects/stepik/images/stage1_14_hu_b2eec51220cbec76.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_14_hu_a73a561b03bd95ad.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;523&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;При нахождении в &amp;ldquo;/home/bi/Documents&amp;rdquo; команда &amp;ldquo;ls &lt;del&gt;/Downloads&amp;rdquo; показывает содержимое папки Downloads домашнего каталога, так как &amp;ldquo;&lt;/del&gt;&amp;rdquo; раскрывается в &amp;ldquo;/home/bi&amp;rdquo;. Команда &amp;ldquo;ls ../Downloads&amp;rdquo; (подняться на уровень выше и зайти в Downloads) также корректна, а абсолютный путь &amp;ldquo;ls /home/bi/Downloads&amp;rdquo; работает из любой директории. Все варианты дают одинаковый результат, поэтому отмечены все.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Просмотр Downloads&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_15_hu_46a9550f625c5197.webp 320w, http://localhost:1313/projects/stepik/images/stage1_15_hu_4760de6b6211c306.webp 480w, http://localhost:1313/projects/stepik/images/stage1_15_hu_370809dc4514b3ba.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_15_hu_46a9550f625c5197.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;551&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для удаления директорий используется &amp;ldquo;rm -r&amp;rdquo;, где операнд &amp;ldquo;-r&amp;rdquo; (recursive) указывает на рекурсивное удаление содержимого. Команда &amp;ldquo;rm -f&amp;rdquo; только принудительно удаляет файлы без запроса, но не каталоги; &amp;ldquo;mv&amp;rdquo; перемещает, &amp;ldquo;mkdir&amp;rdquo; создаёт директории.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Удаление директорий&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_16_hu_777557a32db1008f.webp 320w, http://localhost:1313/projects/stepik/images/stage1_16_hu_44b7e0d6146cd5f3.webp 480w, http://localhost:1313/projects/stepik/images/stage1_16_hu_526d0029e6e35407.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_16_hu_777557a32db1008f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;312&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-15-запуск-исполняемых-файлов&#34;&gt;Выполнение 1.5. Запуск исполняемых файлов&lt;/h4&gt;
+&lt;p&gt;Если ввести в терминал команду firefox (для запуска одноименного браузера), а затем ввести туда же команду exit, то ни одна из программ не закроется.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;firefox и exit&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_17_hu_7f62c33bae66ee6f.webp 320w, http://localhost:1313/projects/stepik/images/stage1_17_hu_65ccd4b5d04ba97.webp 480w, http://localhost:1313/projects/stepik/images/stage1_17_hu_415d736d56860dda.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_17_hu_7f62c33bae66ee6f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;341&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Запуск программы с символом &amp;ldquo;&amp;amp;&amp;rdquo; эквивалентен комбинации: запуск в фоне с помощью &amp;ldquo;Ctrl+Z&amp;rdquo; и последующей команды &amp;ldquo;bg&amp;rdquo;. &amp;ldquo;Ctrl+Z&amp;rdquo; приостанавливает процесс, а &amp;ldquo;bg&amp;rdquo; возобновляет его в фоновом режиме. Остальные варианты либо оставляют процесс на переднем плане, либо завершают его.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Запуск с &amp;amp;&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_18_hu_ca55daeb22a7509.webp 320w, http://localhost:1313/projects/stepik/images/stage1_18_hu_fedb058c56d5435d.webp 480w, http://localhost:1313/projects/stepik/images/stage1_18_hu_8343ddddcfd04f0c.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_18_hu_ca55daeb22a7509.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;313&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Далее требовалось скачать файл с программой, сделать его исполняемым (&amp;ldquo;chmod u+x&amp;rdquo;), запустить и скопировать вывод. После явного вызова интерпретатора &amp;ldquo;python3 ./lec1_frag4_current_time.py&amp;rdquo; скрипт выдал текущую дату и контрольную сумму. Полученный результат ввели в ответ.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Вывод в терминале&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_19_hu_f414c0bbf7c88b00.webp 320w, http://localhost:1313/projects/stepik/images/stage1_19_hu_af892fdf6d2ced59.webp 480w, http://localhost:1313/projects/stepik/images/stage1_19_hu_6cce2b67a743bafb.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_19_hu_f414c0bbf7c88b00.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;313&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Процесс выполнения&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_20_hu_dac2c5c320c77963.webp 320w, http://localhost:1313/projects/stepik/images/stage1_20_hu_8d19c019d69bb638.webp 480w, http://localhost:1313/projects/stepik/images/stage1_20_hu_efc492b5cfac20c9.webp 729w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_20_hu_dac2c5c320c77963.webp&#34;
+               width=&#34;729&#34;
+               height=&#34;178&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-16-ввод--вывод&#34;&gt;Выполнение 1.6. Ввод / вывод&lt;/h4&gt;
+&lt;p&gt;Поток ошибок (stderr) по умолчанию выводится на экран, смешиваясь с обычным выводом. Это позволяет сразу видеть сообщения об ошибках.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Поток ошибок&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_21_hu_2523ec309a54bb0c.webp 320w, http://localhost:1313/projects/stepik/images/stage1_21_hu_edc7a3b3b57ecedb.webp 480w, http://localhost:1313/projects/stepik/images/stage1_21_hu_793eccc7cec98d0b.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_21_hu_2523ec309a54bb0c.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;322&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Чтобы создать файл &amp;ldquo;file.txt&amp;rdquo; и записать в него поток ошибок программы &amp;ldquo;program&amp;rdquo;, нужно использовать &amp;ldquo;program 2&amp;gt; file.txt&amp;rdquo; (перезапись файла) или &amp;ldquo;program 2&amp;raquo; file.txt&amp;rdquo; (дозапись). Остальные варианты либо перенаправляют стандартный вывод, либо используют неверный синтаксис.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Перенаправление stderr&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_22_hu_dde69e3c245936e0.webp 320w, http://localhost:1313/projects/stepik/images/stage1_22_hu_af6871d639b01623.webp 480w, http://localhost:1313/projects/stepik/images/stage1_22_hu_e6ef03e85b5fd259.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_22_hu_dde69e3c245936e0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;438&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;При объединении программ в конвейер (pipe) сообщения об ошибках всё равно выводятся на экран.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;stderr в конвейере&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_23_hu_bdbb699b63aa2d96.webp 320w, http://localhost:1313/projects/stepik/images/stage1_23_hu_ed3d3560d87e0855.webp 480w, http://localhost:1313/projects/stepik/images/stage1_23_hu_310bae50ede70584.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_23_hu_bdbb699b63aa2d96.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;390&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-17-скачивание-файлов-из-интернета&#34;&gt;Выполнение 1.7. Скачивание файлов из интернета&lt;/h4&gt;
+&lt;p&gt;В команде &amp;ldquo;wget -P /home/alex/Pictures -O 1.jpg 
+ операнд &amp;ldquo;-P&amp;rdquo; задаёт каталог для сохранения, а &amp;ldquo;-O&amp;rdquo; переопределяет имя файла. Несмотря на исходное имя &amp;ldquo;example.jpg&amp;rdquo;, файл будет сохранён как 1.jpg. Поэтому правильный ответ – /home/alex/1.jpg.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Сохранение через wget&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_24_hu_dcd42abc3e99428f.webp 320w, http://localhost:1313/projects/stepik/images/stage1_24_hu_f773ba860cd23b9b.webp 480w, http://localhost:1313/projects/stepik/images/stage1_24_hu_e0498e137e146d4.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_24_hu_dcd42abc3e99428f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;370&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Опция &amp;ldquo;-q&amp;rdquo; (или &amp;ldquo;&amp;ndash;quiet&amp;rdquo;) заставляет &amp;ldquo;wget&amp;rdquo; работать в тихом режиме, убирая все информационные сообщения.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Тихий режим wget&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_25_hu_dd02f050cc47f068.webp 320w, http://localhost:1313/projects/stepik/images/stage1_25_hu_425fd60cfd070213.webp 480w, http://localhost:1313/projects/stepik/images/stage1_25_hu_debaeb6a42cc5dd6.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_25_hu_dd02f050cc47f068.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;353&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Команда &amp;ldquo;wget -r -l 1 -A jpg&amp;rdquo; рекурсивно скачивает страницу и файлы по шаблону &amp;ldquo;*.jpg&amp;rdquo;, но при этом также загружает html-страницы. Однако после завершения все файлы, не соответствующие маске &amp;ldquo;-A&amp;rdquo;, удаляются. Поэтому остаются только jpg, а html удаляются.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Рекурсивная загрузка wget&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_26_hu_8e0eecb28676f2b0.webp 320w, http://localhost:1313/projects/stepik/images/stage1_26_hu_58777f54860996d7.webp 480w, http://localhost:1313/projects/stepik/images/stage1_26_hu_9f8ac8b9dcba4563.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_26_hu_8e0eecb28676f2b0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;464&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-18-работа-с-архивами&#34;&gt;Выполнение 1.8. Работа с архивами&lt;/h4&gt;
+&lt;p&gt;При распаковке &amp;ldquo;gzip&amp;rdquo; по умолчанию удаляет исходный архив, оставляя только распакованный файл, тогда как &amp;ldquo;zip&amp;rdquo; сохраняет и архив, и извлечённые файлы.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;gzip и zip&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_27_hu_96c9e58c9fc27310.webp 320w, http://localhost:1313/projects/stepik/images/stage1_27_hu_375d554304514f81.webp 480w, http://localhost:1313/projects/stepik/images/stage1_27_hu_1a2c261309731e8d.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_27_hu_96c9e58c9fc27310.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;375&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Создать архив из директории могут &amp;ldquo;tar&amp;rdquo; и &amp;ldquo;zip&amp;rdquo;. &amp;ldquo;gzip&amp;rdquo; сжимает только отдельные файлы, не умея работать с директориями.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Архивация директорий&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_28_hu_294fbb86a2769488.webp 320w, http://localhost:1313/projects/stepik/images/stage1_28_hu_4c7e0c662f11b970.webp 480w, http://localhost:1313/projects/stepik/images/stage1_28_hu_f3a40e56ceb2128c.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_28_hu_294fbb86a2769488.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;309&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для запаковки файлов в &amp;ldquo;my_archive.tar.bz2&amp;rdquo; программе &amp;ldquo;tar&amp;rdquo; требуется комбинация флагов &amp;ldquo;-cjf&amp;rdquo;: &amp;ldquo;c&amp;rdquo; – создать архив, &amp;ldquo;j&amp;rdquo; – использовать bzip2, &amp;ldquo;f&amp;rdquo; – указать имя файла.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;tar и bz2&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_29_hu_9b9d38d7d7e168e0.webp 320w, http://localhost:1313/projects/stepik/images/stage1_29_hu_601ece2d7b1a33d3.webp 480w, http://localhost:1313/projects/stepik/images/stage1_29_hu_f7037be5d2819f38.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_29_hu_9b9d38d7d7e168e0.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;309&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-19-поиск-файлов-и-слов-в-файлах&#34;&gt;Выполнение 1.9. Поиск файлов и слов в файлах&lt;/h4&gt;
+&lt;p&gt;В задании нужно было отметить те шаблоны, которые не найдут файл &amp;ldquo;Alexey.jpeg&amp;rdquo;. Правильные ответы: &amp;ldquo;&lt;em&gt;.jpg&amp;rdquo; (ищет расширение &amp;ldquo;.jpg&amp;rdquo;, а не &amp;ldquo;.jpeg&amp;rdquo;), &amp;ldquo;alexey.&lt;/em&gt;&amp;rdquo; (имя начинается с маленькой буквы), &amp;ldquo;Alex&amp;rdquo; (без расширения) и другие, не соответствующие точному имени.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Командаfind&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_30_hu_880b410839274ea2.webp 320w, http://localhost:1313/projects/stepik/images/stage1_30_hu_35293f0c01e0f12c.webp 480w, http://localhost:1313/projects/stepik/images/stage1_30_hu_af8403b1589e0537.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_30_hu_880b410839274ea2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;421&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Команда &amp;ldquo;grep &amp;ldquo;world&amp;rdquo; text.txt&amp;rdquo; выводит строки, содержащие подстроку «world» с учётом регистра. Поэтому строки с «World», «WORLD» не попадают. Попадают: «The beautiful world is not enough», «The beautiful-world is not enough» (дефис не мешает), «The world is not enough», «world» (отдельно) и т.д. Строки с кавычками или словом «word» не содержат искомой подстроки.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;grep world&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_31_hu_fd8b5cd4083dfdca.webp 320w, http://localhost:1313/projects/stepik/images/stage1_31_hu_ca50055125051725.webp 480w, http://localhost:1313/projects/stepik/images/stage1_31_hu_65b1e938fedbda09.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_31_hu_fd8b5cd4083dfdca.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;480&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Скачали архив произведений Шекспира, извлекли его (&amp;ldquo;tar -xf shakespeare.tar.gz&amp;rdquo;) и собрать все строки, содержащие «love», в файл &amp;ldquo;slove.txt&amp;rdquo;. Использовали команда &amp;ldquo;grep -rh &amp;ldquo;love&amp;rdquo; ~/Shakespeare &amp;gt; ~/slove.txt&amp;rdquo;, где &amp;ldquo;-r&amp;rdquo; рекурсивно ищет, &amp;ldquo;-h&amp;rdquo; подавляет имена файлов. Полученный файл загружен в форму.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Распаковка и grep&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_32_hu_8ea8554b4139fed4.webp 320w, http://localhost:1313/projects/stepik/images/stage1_32_hu_c0208b7c376d22e0.webp 480w, http://localhost:1313/projects/stepik/images/stage1_32_hu_576f5108e49fccb6.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_32_hu_8ea8554b4139fed4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;86&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;slove.txt&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_33_hu_643028eabdea14df.webp 320w, http://localhost:1313/projects/stepik/images/stage1_33_hu_2336fb17a3a35492.webp 480w, http://localhost:1313/projects/stepik/images/stage1_33_hu_f104783ff6adfc69.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_33_hu_643028eabdea14df.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;751&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Загрузка файла&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage1_34_hu_aad68088df748254.webp 320w, http://localhost:1313/projects/stepik/images/stage1_34_hu_a691e740a8305cc7.webp 480w, http://localhost:1313/projects/stepik/images/stage1_34_hu_b0f5ed3201d4ab5e.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage1_34_hu_aad68088df748254.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;344&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;выводы&#34;&gt;Выводы&lt;/h3&gt;
+&lt;p&gt;В ходе выполнения первого этапа внешнего курса «Введение в Linux» были получены базовые знания об операционной системе Linux, виртуальных машинах, пакетных менеджерах, работе с командной строкой, управлении процессами, потоками ввода-вывода, сетевых утилитах, архивации, поиске файлов и фильтрации текста&lt;/p&gt;
+&lt;h3 id=&#34;список-литературы&#34;&gt;Список литературы&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Курс «Введение в Linux» на платформе Stepik [Электронный ресурс] URL: 
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;этап-2-работа-на-сервере&#34;&gt;Этап 2. Работа на сервере&lt;/h2&gt;
+&lt;h3 id=&#34;цель-работы-1&#34;&gt;Цель работы&lt;/h3&gt;
+&lt;p&gt;Целью данной работы является выполнение внешнего курса под названием &amp;ldquo;Введение в Linux&amp;rdquo;. Во втором этапе мы подробно изучим работу на сервере, установку программ и работу с процессами.&lt;/p&gt;
+&lt;h3 id=&#34;задание-1&#34;&gt;Задание&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Ознакомиться с теоретическим материалом&lt;/li&gt;
+&lt;li&gt;Ответить на вопросы и выполнить задания для закрепления теоретического материала&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;выполнение-лабораторной-работы-1&#34;&gt;Выполнение лабораторной работы&lt;/h3&gt;
+&lt;h4 id=&#34;выполнение-21-знакомство-с-сервером&#34;&gt;Выполнение 2.1. Знакомство с сервером&lt;/h4&gt;
+&lt;p&gt;Сервер может служить для выполнения многих задач: хранение конфиденциальных или общедоступных данных, выполнение сложных вычислений, хранение больших объемов данных, поэтому все ответы верны.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Функции сервера&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_1_hu_d272cf37108a4ed4.webp 320w, http://localhost:1313/projects/stepik/images/stage2_1_hu_9048eb3c43ec6474.webp 480w, http://localhost:1313/projects/stepik/images/stage2_1_hu_14cf4085f6e071ad.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_1_hu_d272cf37108a4ed4.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;324&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Распространять можно только публичный ключ (id_rsa.pub), конфеданциальный ключ (id_rsa) никаким образом нельзя распространять.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Распространение ключей&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_2_hu_d4651e36adeb9e6a.webp 320w, http://localhost:1313/projects/stepik/images/stage2_2_hu_26a99fc32ebcc5cb.webp 480w, http://localhost:1313/projects/stepik/images/stage2_2_hu_93dd93f43a304f52.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_2_hu_d4651e36adeb9e6a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;341&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для рекурсивного копирования папки &amp;ldquo;stepic&amp;rdquo; со всем содержимым на сервер в домашнюю директорию необходимо использовать ключ &amp;ldquo;-r&amp;rdquo;. Поэтому верный ответ: &amp;ldquo;scp -r stepic username@server:~/&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Рекурсивное копирование папки с помощью scp -r&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_3_hu_8fb779eeff50ab58.webp 320w, http://localhost:1313/projects/stepik/images/stage2_3_hu_b9ebdc1206587b2d.webp 480w, http://localhost:1313/projects/stepik/images/stage2_3_hu_a5161bc5c5c1db9c.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_3_hu_8fb779eeff50ab58.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;341&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-22-обмен-файлами&#34;&gt;Выполнение 2.2. Обмен файлами&lt;/h4&gt;
+&lt;p&gt;Если &amp;ldquo;sudo apt-get install program&amp;rdquo; не находит пакет может помочь выполнить &amp;ldquo;sudo apt-get update&amp;rdquo; для обновления индексов репозиториев и проверить (восстановить) интернет-соединение. Команда &amp;ldquo;sudo apt-get upgrade&amp;rdquo; обновляет уже установленные пакеты, но не решает проблему поиска нового пакета, а &amp;ldquo;&amp;ndash;only-upgrade&amp;rdquo; лишь обновляет существующую программу.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Действия при ошибке apt-get install&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_4_hu_b55639d13ee8d7fe.webp 320w, http://localhost:1313/projects/stepik/images/stage2_4_hu_7f9b59377d5a1323.webp 480w, http://localhost:1313/projects/stepik/images/stage2_4_hu_59b9b720059571b5.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_4_hu_b55639d13ee8d7fe.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;341&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Filezilla позволяет просматривать и копировать содержимое каталогов как на локальном компьютере, так и на сервере, однако не предназначен для установки или запуска программ.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Функции Filezilla&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_5_hu_4659415ea4318260.webp 320w, http://localhost:1313/projects/stepik/images/stage2_5_hu_468f4156a7f1e501.webp 480w, http://localhost:1313/projects/stepik/images/stage2_5_hu_96f716091eca0462.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_5_hu_4659415ea4318260.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;345&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Если на сервере необходимо запустить программу, рассчитанную на графический интерфейс, можно либо поискать её терминальную версию, либо настроить проброс графического вывода.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Запуск GUI-программы на сервере&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_6_hu_4be7fa62aadaac81.webp 320w, http://localhost:1313/projects/stepik/images/stage2_6_hu_2dda1dede7fd246f.webp 480w, http://localhost:1313/projects/stepik/images/stage2_6_hu_eb62a88ff6037d15.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_6_hu_4be7fa62aadaac81.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;345&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-23-запуск-приложений&#34;&gt;Выполнение 2.3. Запуск приложений&lt;/h4&gt;
+&lt;p&gt;Утилиты &amp;ldquo;help&amp;rdquo;, &amp;ldquo;man&amp;rdquo; и вызов &amp;ldquo;program &amp;ndash;help&amp;rdquo; (или &amp;ldquo;-h&amp;rdquo;/&amp;quot;-help&amp;rdquo;) являются стандартными способами получения документации в Linux. Конструкция &amp;ldquo;program ?!&amp;rdquo; синтаксически неверна и никогда не используется.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Способы вызова справки&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_7_hu_249075eec2a5f444.webp 320w, http://localhost:1313/projects/stepik/images/stage2_7_hu_3cbe4aa2fb5b200f.webp 480w, http://localhost:1313/projects/stepik/images/stage2_7_hu_7827b7409c9a187a.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_7_hu_249075eec2a5f444.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;376&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Программа FastQC принимает на вход форматы fasta и fastq. Это было выяснено после изучения справки (&amp;ldquo;fastqc &amp;ndash;help&amp;rdquo;), где явно перечислены поддерживаемые типы файлов.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;FastQC поддерживает fasta и fastq&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_8_hu_777d57bbb96f39c7.webp 320w, http://localhost:1313/projects/stepik/images/stage2_8_hu_a4c16b0fc485f0d.webp 480w, http://localhost:1313/projects/stepik/images/stage2_8_hu_acc7811a8197a31.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_8_hu_777d57bbb96f39c7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;695&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для выполнения множественного выравнивания программой ClustalW необходимо явно указать опцию &amp;ldquo;-align&amp;rdquo;. Полная команда: &amp;ldquo;clustalw test.fasta -align&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Команда clustalw для множественного выравнивания&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_9_hu_d9fcc3977cf2f0d7.webp 320w, http://localhost:1313/projects/stepik/images/stage2_9_hu_659233f80a566de.webp 480w, http://localhost:1313/projects/stepik/images/stage2_9_hu_5ad7f70a1213d6c.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_9_hu_d9fcc3977cf2f0d7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;695&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-24-контроль-запускаемых-программ&#34;&gt;Выполнение 2.4. Контроль запускаемых программ&lt;/h4&gt;
+&lt;p&gt;После выполнения последовательности действий с фоновыми процессами (&amp;ldquo;fg %1&amp;rdquo;, &amp;ldquo;Ctrl+C&amp;rdquo;, &amp;ldquo;fg %2&amp;rdquo;, &amp;ldquo;Ctrl+Z&amp;rdquo;) команда &amp;ldquo;jobs&amp;rdquo; покажет только процессы, которые остались в фоне или остановлены. &amp;ldquo;program1&amp;rdquo; была снята с паузы и затем завершена, &amp;ldquo;program2&amp;rdquo; остановлена комбинацией &amp;ldquo;Ctrl+Z&amp;rdquo;, а &amp;ldquo;program3&amp;rdquo; по-прежнему работает в фоне. Следовательно, &amp;ldquo;jobs&amp;rdquo; отобразит информацию о &amp;ldquo;program2&amp;rdquo; и &amp;ldquo;program3&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Результат выполнения jobs после выполнения действий&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_10_hu_d1d26274511b2fe8.webp 320w, http://localhost:1313/projects/stepik/images/stage2_10_hu_72360d95b95df83c.webp 480w, http://localhost:1313/projects/stepik/images/stage2_10_hu_f5e783e30d58fbc9.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_10_hu_d1d26274511b2fe8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;524&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Утилиты &amp;ldquo;jobs&amp;rdquo;, &amp;ldquo;top&amp;rdquo; и &amp;ldquo;ps&amp;rdquo; используют разные идентификаторы: &amp;ldquo;jobs&amp;rdquo; оперирует номерами заданий текущего сеанса оболочки, &amp;ldquo;ps&amp;rdquo; – системными PID (Process ID), а &amp;ldquo;top&amp;rdquo; также показывает PID. Поэтому ни в одной паре они не совпадают. Верный ответ – «У всех разные».&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Идентификаторы процессов в разных утилитах&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_11_hu_f1f552226ab44166.webp 320w, http://localhost:1313/projects/stepik/images/stage2_11_hu_46661944a044966.webp 480w, http://localhost:1313/projects/stepik/images/stage2_11_hu_dba73f10a629f603.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_11_hu_f1f552226ab44166.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;356&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Мгновенно завершить остановленный процесс можно командой &amp;ldquo;kill -9&amp;rdquo;, посылающей сигнал SIGKILL.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;kill -9 для мгновенного завершения&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_12_hu_ce12ef4ba8c7cf15.webp 320w, http://localhost:1313/projects/stepik/images/stage2_12_hu_b8765545f17ccebf.webp 480w, http://localhost:1313/projects/stepik/images/stage2_12_hu_624b39d8031c1b0d.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_12_hu_ce12ef4ba8c7cf15.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;312&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Сигнал &amp;ldquo;kill&amp;rdquo; (без опций) лишь просит процесс завершиться, но не действует на процесс, пока тот не будет продолжен.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;kill без опций для остановленного процесса&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_13_hu_cb4b416ec1c05a56.webp 320w, http://localhost:1313/projects/stepik/images/stage2_13_hu_ce8167e3ae732bcc.webp 480w, http://localhost:1313/projects/stepik/images/stage2_13_hu_afd7978d100f2b44.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_13_hu_cb4b416ec1c05a56.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;345&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-25-многопоточные-приложения&#34;&gt;Выполнение 2.5. Многопоточные приложения&lt;/h4&gt;
+&lt;p&gt;В остановленном состоянии процессорное время не потребляется, поэтому &amp;ldquo;%CPU&amp;rdquo; равен нулю.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Остановленное многопоточное приложение&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_14_hu_ff62b652e27389d7.webp 320w, http://localhost:1313/projects/stepik/images/stage2_14_hu_26907cf45097bed5.webp 480w, http://localhost:1313/projects/stepik/images/stage2_14_hu_96ff44f318065680.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_14_hu_ff62b652e27389d7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;533&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Занятая память сохраняется в том же объёме, что и в момент остановки.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Память, занимаемая остановленным приложением&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_15_hu_ec41c1569fb9a82a.webp 320w, http://localhost:1313/projects/stepik/images/stage2_15_hu_da47c0562cd38aeb.webp 480w, http://localhost:1313/projects/stepik/images/stage2_15_hu_d2701ea6bbcea865.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_15_hu_ec41c1569fb9a82a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;460&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Невозможно принудительно завершить отдельный поток многопоточного приложения – в Linux сигналы посылаются всему процессу целиком, поэтому «никак» является единственно верным ответом.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Нельзя завершить отдельный поток&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_16_hu_d4f9c75d09c14853.webp 320w, http://localhost:1313/projects/stepik/images/stage2_16_hu_cc473abe7823487e.webp 480w, http://localhost:1313/projects/stepik/images/stage2_16_hu_e4726c7f6b56696a.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_16_hu_d4f9c75d09c14853.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;460&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Многопоточность поддерживается только на этапе собственно выравнивания (подпрограмма &amp;ldquo;bowtie2&amp;rdquo;). Этап индексации референсного генома (&amp;ldquo;bowtie2-build&amp;rdquo;) выполняется строго в один поток.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Многопоточность поддерживается только bowtie2&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_17_hu_114b58946d425dfa.webp 320w, http://localhost:1313/projects/stepik/images/stage2_17_hu_bda183e62386acaf.webp 480w, http://localhost:1313/projects/stepik/images/stage2_17_hu_f920122a6f75cdbc.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_17_hu_114b58946d425dfa.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;398&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Вывод stderr второго этапа был перенаправлен в файл &amp;ldquo;bowtie.log&amp;rdquo; и загружен в форму.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Лог выполнения bowtie2&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_18_hu_fd6c0b13ff509c3f.webp 320w, http://localhost:1313/projects/stepik/images/stage2_18_hu_f73ca22fcbded90d.webp 480w, http://localhost:1313/projects/stepik/images/stage2_18_hu_46785fc069205aaa.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_18_hu_fd6c0b13ff509c3f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;498&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-26-менеджер-терминалов-tmux&#34;&gt;Выполнение 2.6. Менеджер терминалов tmux&lt;/h4&gt;
+&lt;p&gt;Каждая вкладка представляет собой независимую сессию оболочки. Если процесс был приостановлен в другой вкладке, набрав &amp;ldquo;fg&amp;rdquo; в текущей, терминал сообщит, что нет подходящей задачи, так как &amp;ldquo;fg&amp;rdquo; видит только задания своей сессии.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;fg в другой вкладке&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_19_hu_d26dfd46d5da0e35.webp 320w, http://localhost:1313/projects/stepik/images/stage2_19_hu_486fb4c1af96f4bf.webp 480w, http://localhost:1313/projects/stepik/images/stage2_19_hu_a12a736f0112346d.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_19_hu_d26dfd46d5da0e35.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;356&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Если в tmux осталась одна последняя вкладка и в ней введена команда &amp;ldquo;exit&amp;rdquo;, то tmux завершает свою работу, поскольку закрывается последняя активная сессия.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Закрытие последней вкладки tmux&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_20_hu_46d6cd01e6fd22dd.webp 320w, http://localhost:1313/projects/stepik/images/stage2_20_hu_82593e9d1a2ee855.webp 480w, http://localhost:1313/projects/stepik/images/stage2_20_hu_dd02cbf903c5f12c.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_20_hu_46d6cd01e6fd22dd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;329&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;В описанной ситуации соединение с сервером прервётся, однако tmux продолжит работу. Tmux является серверным процессом, не привязанным к конкретной SSH-сессии; при разрыве соединения его сессия остаётся активной, и к ней можно снова подключиться позже.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Закрытие терминала при работающем tmux на сервере&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_21_hu_4227c7891643f8e5.webp 320w, http://localhost:1313/projects/stepik/images/stage2_21_hu_cca9888b16a9fc51.webp 480w, http://localhost:1313/projects/stepik/images/stage2_21_hu_a0bf40e1e227efdf.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_21_hu_4227c7891643f8e5.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;373&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;При принудительном закрытии вкладки tmux (&amp;ldquo;Ctrl+B, X&amp;rdquo;) все процессы, запущенные в этой вкладке, уничтожаются.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Закрытие вкладки с фоновым процессом&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_22_hu_cf34ff7eda8ba76a.webp 320w, http://localhost:1313/projects/stepik/images/stage2_22_hu_cac379e128cc1d4b.webp 480w, http://localhost:1313/projects/stepik/images/stage2_22_hu_1474f816295e98b8.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_22_hu_cf34ff7eda8ba76a.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;332&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для переименования текущей вкладки в tmux используется комбинация &amp;ldquo;Ctrl+B&amp;rdquo; и запятая (&amp;quot;,&amp;quot;).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Комбинация для переименования вкладки&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_23_hu_5d7f7b899166cf46.webp 320w, http://localhost:1313/projects/stepik/images/stage2_23_hu_9db881e3da78c9f5.webp 480w, http://localhost:1313/projects/stepik/images/stage2_23_hu_cd07b197066a1158.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_23_hu_5d7f7b899166cf46.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;406&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Изучили возможности разделения вкладок на панели. Из предложенных утверждений верными являются два: &amp;ldquo;По половинкам &amp;ldquo;разделенной&amp;rdquo; вкладки можно перемещаться при помощи (Ctrl+B и стрелочек)&amp;rdquo;, &amp;ldquo;Команды-&amp;ldquo;разделения&amp;rdquo; действуют только в текущей вкладке tmux, а не во всех вкладках одновременно&amp;rdquo;, &amp;ldquo;Можно закрыть одну из &amp;ldquo;частей&amp;rdquo; вкладки выполнив (Ctrl+B и x)&amp;rdquo;. Остальные утверждения неверны.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Утверждения о разделении вкладок tmux&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage2_24_hu_69996b7e67892e4d.webp 320w, http://localhost:1313/projects/stepik/images/stage2_24_hu_644991f9fc1cf51f.webp 480w, http://localhost:1313/projects/stepik/images/stage2_24_hu_66574fb6cd8245c6.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage2_24_hu_69996b7e67892e4d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;553&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;выводы-1&#34;&gt;Выводы&lt;/h3&gt;
+&lt;p&gt;В ходе выполнения второго этапа внешнего курса «Введение в Linux» были получены практические навыки работы с удалёнными серверами, установкой программного обеспечения, запуском и контролем процессов&lt;/p&gt;
+&lt;h3 id=&#34;список-литературы-1&#34;&gt;Список литературы&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Курс «Введение в Linux» на платформе Stepik [Электронный ресурс] URL: 
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;этап-3-продвинутые-темы&#34;&gt;Этап 3. Продвинутые темы&lt;/h2&gt;
+&lt;h3 id=&#34;цель-работы-2&#34;&gt;Цель работы&lt;/h3&gt;
+&lt;p&gt;Целью данной работы является выполнение внешнего курса под названием &amp;ldquo;Введение в Linux&amp;rdquo;. В третьем этапе мы подробно редактор vim, скрипты bash и различные возможности Linux.&lt;/p&gt;
+&lt;h3 id=&#34;задание-2&#34;&gt;Задание&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Ознакомиться с теоретическим материалом&lt;/li&gt;
+&lt;li&gt;Ответить на вопросы и выполнить задания для закрепления теоретического материала&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;выполнение-лабораторной-работы-2&#34;&gt;Выполнение лабораторной работы&lt;/h3&gt;
+&lt;h4 id=&#34;выполнение-31-текстовый-редактор-vim&#34;&gt;Выполнение 3.1. Текстовый редактор vim&lt;/h4&gt;
+&lt;p&gt;Чтобы выйти из редактора vim необходимо нажать  &amp;quot; : &amp;ldquo;, затем &amp;ldquo;q&amp;rdquo;, затем &amp;ldquo;Еnter&amp;rdquo;. Именно так осуществляется выход из нормального режима vim.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Выход из редактора vim&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_1_hu_c571909435555c7f.webp 320w, http://localhost:1313/projects/stepik/images/stage3_1_hu_ff955a304cda9602.webp 480w, http://localhost:1313/projects/stepik/images/stage3_1_hu_19cc7c91e4fb6791.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_1_hu_c571909435555c7f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;477&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Далее необходимо было изучить разнице между использованием &amp;ldquo;W&amp;rdquo; и &amp;ldquo;w&amp;rdquo; в редакторе vim. W служит перемещению между условно называемых больших слов - слова раделенные исключительно пробелом. Использование w служит для перемещению между условно называемых маленьких слов - слова делятся всеми символами, кроме нижнего подчеркивания, при этом сомволы тоже считаются маленькими словами. На примере строки &amp;ldquo;Strange_  TEXT  is_here. 2=2 YES!&amp;rdquo; мы можем увидеть, что больших слов здесь всего 5 (&amp;ldquo;Strange_&amp;rdquo;, &amp;ldquo;TEXT&amp;rdquo;, &amp;ldquo;is_here.&amp;rdquo;, &amp;ldquo;2=2&amp;rdquo;, &amp;ldquo;YES!&amp;rdquo;), а маленьких 9 (&amp;ldquo;Strange_&amp;rdquo;, &amp;ldquo;TEXT&amp;rdquo;, &amp;ldquo;is_here&amp;rdquo;, &amp;ldquo;.&amp;rdquo;, &amp;ldquo;2&amp;rdquo;, &amp;ldquo;=&amp;rdquo;, &amp;ldquo;2&amp;rdquo;, &amp;ldquo;YES&amp;rdquo;, &amp;ldquo;!&amp;rdquo;). Логически выбрали правильные ответы: &amp;ldquo;Нажимая только на W, нельзя переместить курсор на &amp;ldquo;.&amp;rdquo;&amp;rdquo;, &amp;ldquo;После 10 нажатий на W курсор окажется там же, где бы он был после 10 нажатий на w&amp;rdquo;, &amp;ldquo;Чтобы попасть в конец строки, нужно совершить меньше нажатий на W, чем на w&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Использование w и W&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_2_hu_39e8bc020a745afa.webp 320w, http://localhost:1313/projects/stepik/images/stage3_2_hu_cc0f919534bbb63b.webp 480w, http://localhost:1313/projects/stepik/images/stage3_2_hu_db3b78dcc5ffe7b3.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_2_hu_39e8bc020a745afa.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;542&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;В текстовом файле записана одна единственная строка: &amp;ldquo;one two three four five&amp;rdquo; и нужно преобразовать её в строку &amp;ldquo;three four four four five&amp;rdquo;. Для этого подходят команды:  &amp;ldquo;ddithree four four four five&amp;laquo;Esc&amp;raquo;&amp;rdquo; (удаление всей строки и вставка нового текста), &amp;ldquo;d2wwywPp&amp;rdquo; (удаление двух первых слов, переход к слову «four», его копирование и вставка перед и после курсора), &amp;ldquo;d2w$$bifour four &amp;laquo;Esc&amp;raquo;&amp;rdquo; (удаление двух слов, переход в конец строки и вставка «four four » перед последним словом), &amp;ldquo;d2wwifour four &amp;laquo;Esc&amp;raquo;&amp;rdquo; (удаление двух слов, переход к «four» и вставка перед ним).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Изменение строки&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_3_hu_aa78a9d9ee52adc2.webp 320w, http://localhost:1313/projects/stepik/images/stage3_3_hu_b0eecd14f8953aa8.webp 480w, http://localhost:1313/projects/stepik/images/stage3_3_hu_28850a459872416a.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_3_hu_aa78a9d9ee52adc2.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;459&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Чтобы в редакторе vim заменить в некотором файле все строки, содержащие слово Windows, на такие же строки, но со словом Linux, при этом если в какой-то строке слово Windows встречается больше, чем один раз, то заменить на Linux в этой строке нужно только самое первое из этих слов нужно выполнить команду &amp;ldquo;:%s/Windows/Linux&amp;rdquo;. Без дополнительных флагов замена в vim затрагивает только первое совпадение на строке.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Замена Windows на Linux&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_4_hu_bc4f529c751ded56.webp 320w, http://localhost:1313/projects/stepik/images/stage3_4_hu_1e245d9b4f56b00b.webp 480w, http://localhost:1313/projects/stepik/images/stage3_4_hu_7a9c9488a5fd98ff.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_4_hu_bc4f529c751ded56.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;333&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;При самостоятельном изучении режима выделения были отмечены верные утверждения: &amp;ldquo;Режим выделения открывается из нормального режима по нажатию &amp;ldquo;v&amp;rdquo;&amp;rdquo;, &amp;ldquo;В режиме выделения можно использовать команды d (удалить) и y (скопировать)&amp;rdquo;, &amp;ldquo;В режиме выделения можно использовать команды перемещения (например, W, e, $, и др.)&amp;rdquo;, &amp;ldquo;Выйти из режима выделения можно, нажав клавишу Esc два раза&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Режим Visual в vim&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_5_hu_697eaa4a83cdc77e.webp 320w, http://localhost:1313/projects/stepik/images/stage3_5_hu_261f749418b570e3.webp 480w, http://localhost:1313/projects/stepik/images/stage3_5_hu_b6aa53b36598e4ed.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_5_hu_697eaa4a83cdc77e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;531&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-32-скрипты-на-bash-основы&#34;&gt;Выполнение 3.2. Скрипты на bash: основы&lt;/h4&gt;
+&lt;p&gt;Если из bash запущена sh, а из неё снова bash, то стрелки вверх/вниз показывают только команды, набранные в текущей (последней) оболочке. Поэтому доступен только набор C.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;История команд при вложенных оболочках&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_6_hu_fccba4da85ec2c13.webp 320w, http://localhost:1313/projects/stepik/images/stage3_6_hu_b6dc20bc44c271b0.webp 480w, http://localhost:1313/projects/stepik/images/stage3_6_hu_a2b3eeca347f3d8d.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_6_hu_fccba4da85ec2c13.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;432&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Скрипт создаёт файл в &amp;ldquo;/home/bi/&amp;rdquo;, поэтому абсолютный путь к &amp;ldquo;file1.txt&amp;rdquo; будет &amp;ldquo;/home/bi/file1.txt&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Абсолютный путь созданного файла&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_7_hu_15a230a0826a96c8.webp 320w, http://localhost:1313/projects/stepik/images/stage3_7_hu_676ab8492f5436b0.webp 480w, http://localhost:1313/projects/stepik/images/stage3_7_hu_cf2da97f26aac4fb.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_7_hu_15a230a0826a96c8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;476&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Имена переменных в bash могут содержать буквы (в том числе заглавные), цифры (не на первом месте) и знак подчёркивания. Поэтому из предложенного списка допустимыми являются &amp;ldquo;VARIable&amp;rdquo;, &amp;ldquo;variable&amp;rdquo;, &amp;ldquo;__variable&amp;rdquo;, &amp;ldquo;variable_123&amp;rdquo; и &amp;ldquo;variable123&amp;rdquo;. Строки &amp;ldquo;var i able&amp;rdquo; и &amp;ldquo;123variable&amp;rdquo; не удовлетворяют синтаксису.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Допустимые имена переменных&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_8_hu_b5d3b46641310832.webp 320w, http://localhost:1313/projects/stepik/images/stage3_8_hu_f98ca41d608fc27b.webp 480w, http://localhost:1313/projects/stepik/images/stage3_8_hu_1f469c9355dfcec8.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_8_hu_b5d3b46641310832.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;520&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для вывода аргументов был написан скрипт, использующий &amp;ldquo;$1&#34; и &#34;$2&amp;rdquo;. При запуске &amp;ldquo;./script.sh one two&amp;rdquo; он печатает &amp;ldquo;Arguments are: $1=one $2=two&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Скрипт вывода аргументов&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_9_hu_7b5e0415d761fddf.webp 320w, http://localhost:1313/projects/stepik/images/stage3_9_hu_19a49cbcdffadb15.webp 480w, http://localhost:1313/projects/stepik/images/stage3_9_hu_1c9e3f7eddc08be1.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_9_hu_7b5e0415d761fddf.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;607&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;(Листинг скрипта удалён для сохранения форматирования.)&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-33-скрипты-на-bash-ветвления-и-циклы&#34;&gt;Выполнение 3.3. Скрипты на bash: ветвления и циклы&lt;/h4&gt;
+&lt;p&gt;Cреди условий, всегда истинных вне зависимости от аргументов, были отмечены: &amp;ldquo;!(4 -le 3)&amp;rdquo; (логическое отрицание ложного утверждения), &amp;ldquo;$# -ge 0&#34; (число аргументов всегда неотрицательно), &#34;-e $0&amp;rdquo; (файл скрипта существует), &amp;ldquo;-n $0&amp;rdquo; (имя скрипта непусто), &amp;ldquo;-z &amp;quot;&amp;rdquo;&amp;rdquo; (пустая строка имеет нулевую длину) и &amp;ldquo;5 -ge 5&amp;rdquo;. Все они гарантированно возвращают истину.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Всегда истинные условия&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_10_hu_9555066f43337e07.webp 320w, http://localhost:1313/projects/stepik/images/stage3_10_hu_32de0bde3c331cb4.webp 480w, http://localhost:1313/projects/stepik/images/stage3_10_hu_6d59019624935931.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_10_hu_9555066f43337e07.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;754&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Фрагмент с &amp;ldquo;if‑elif‑else&amp;rdquo; при &amp;ldquo;var=3&amp;rdquo; и &amp;ldquo;var=5&amp;rdquo; оба раза попадает в ветку &amp;ldquo;else&amp;rdquo;, выводя &amp;ldquo;four&amp;rdquo;. Таким образом, на экране сначала &amp;ldquo;four&amp;rdquo;, потом &amp;ldquo;four&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Ветвление с числовыми сравнениями&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_11_hu_f0a4d4338b11f2a7.webp 320w, http://localhost:1313/projects/stepik/images/stage3_11_hu_1d131c94e5f605f9.webp 480w, http://localhost:1313/projects/stepik/images/stage3_11_hu_23de4420681fce35.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_11_hu_f0a4d4338b11f2a7.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;630&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Был реализован скрипт, который по числу студентов выводит правильную форму: 0 → «No students», 1 → «1 student», 2–4 → «N students», от 5 и больше → «A lot of students». Решение использовало цепочку &amp;ldquo;if‑elif‑else&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Скрипт для подсчёта студентов&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_12_hu_d1c4fe3f938fb67d.webp 320w, http://localhost:1313/projects/stepik/images/stage3_12_hu_4c8d2af5bcf4888f.webp 480w, http://localhost:1313/projects/stepik/images/stage3_12_hu_e9b04704d9875977.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_12_hu_d1c4fe3f938fb67d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;753&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;(Листинг скрипта удалён.)&lt;/p&gt;
+&lt;p&gt;В цикле &amp;ldquo;for str in a, b, c_d&amp;rdquo; слово &amp;ldquo;start&amp;rdquo; выводится пять раз (согласно логике задания), а &amp;ldquo;finish&amp;rdquo; - 4.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Цикл с continue&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_13_hu_28d39d8dcd2ec784.webp 320w, http://localhost:1313/projects/stepik/images/stage3_13_hu_5d70ae1056395e2b.webp 480w, http://localhost:1313/projects/stepik/images/stage3_13_hu_d914420fcfcecbc7.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_13_hu_28d39d8dcd2ec784.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;477&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Задача с бесконечным циклом опроса имени и возраста решена при помощи вложенных &amp;ldquo;while&amp;rdquo; и проверок на пустой ввод или нулевой возраст. Скрипт корректно обрабатывает граничные условия и выходит по команде «bye».&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Скрипт возрастной группы – условие&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_14_hu_23e357a5f4be0a4b.webp 320w, http://localhost:1313/projects/stepik/images/stage3_14_hu_ca75b2841fa44158.webp 480w, http://localhost:1313/projects/stepik/images/stage3_14_hu_b10b1f48ad8e91a8.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_14_hu_23e357a5f4be0a4b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;731&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Скрипт возрастной группы – решение&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_15_hu_8587973ab3849fa8.webp 320w, http://localhost:1313/projects/stepik/images/stage3_15_hu_88970951f94496f1.webp 480w, http://localhost:1313/projects/stepik/images/stage3_15_hu_5459be1593a74588.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_15_hu_8587973ab3849fa8.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;629&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;(Листинг скрипта удалён.)&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-34-скрипты-на-bash-разное&#34;&gt;Выполнение 3.4. Скрипты на bash: разное&lt;/h4&gt;
+&lt;p&gt;Увеличить переменную &amp;ldquo;a&amp;rdquo; на значение &amp;ldquo;b&amp;rdquo; можно с помощью &amp;ldquo;let a=a+b&amp;rdquo;, &amp;ldquo;let &amp;ldquo;a = a + b&amp;rdquo;&amp;rdquo;, &amp;ldquo;let &amp;ldquo;a+=b&amp;rdquo;&amp;rdquo; и &amp;ldquo;let &amp;ldquo;a=$a+$b&amp;rdquo;&amp;rdquo;. Прямое присваивание &amp;ldquo;a=$a+$b&amp;rdquo; без &amp;ldquo;let&amp;rdquo; лишь соединяет строки.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Увеличение переменной&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_16_hu_c636cd3c6e0e85e3.webp 320w, http://localhost:1313/projects/stepik/images/stage3_16_hu_e9b4e531ed510da6.webp 480w, http://localhost:1313/projects/stepik/images/stage3_16_hu_fbfa7e647ab4b66b.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_16_hu_c636cd3c6e0e85e3.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;584&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Скрипт, содержащий &amp;ldquo;cd /home/bi/&amp;rdquo; и &amp;ldquo;echo &amp;ldquo;&amp;quot;pwd&amp;quot;&amp;rdquo;&amp;rdquo;, выводит &amp;ldquo;/home/bi&amp;rdquo;, так как подстановка команды в обратных кавычках выполняется после смены каталога.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Вывод текущего каталога в скрипте&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_17_hu_d1c6291f8a973a3f.webp 320w, http://localhost:1313/projects/stepik/images/stage3_17_hu_3b729d7096743eb8.webp 480w, http://localhost:1313/projects/stepik/images/stage3_17_hu_24a3004c42686039.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_17_hu_d1c6291f8a973a3f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;515&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для проверки кода возврата программы, которая пишет в stdout, нужно сначала выполнить её, затем if [[ $? -eq 0 ]] или же создать условие if &amp;ldquo;program &amp;gt; some_file.txt&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Возврат внешней программы&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_18_hu_f35cdc330e7edbe.webp 320w, http://localhost:1313/projects/stepik/images/stage3_18_hu_663ae540995fa4dc.webp 480w, http://localhost:1313/projects/stepik/images/stage3_18_hu_1b1e9549d67e1b2e.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_18_hu_f35cdc330e7edbe.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;535&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Функция &amp;ldquo;counter&amp;rdquo; с локальной переменной &amp;ldquo;c1&amp;rdquo; не изменяет глобальную переменную с тем же именем. После десяти вызовов &amp;ldquo;c2&amp;rdquo; становится равной 110, а &amp;ldquo;c1&amp;rdquo; остаётся пустой, поэтому &amp;ldquo;echo&amp;rdquo; выводит &amp;ldquo;counters are  and 110&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Локальные переменные в функции&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_19_hu_20763d0463628edd.webp 320w, http://localhost:1313/projects/stepik/images/stage3_19_hu_5571fd5873018acb.webp 480w, http://localhost:1313/projects/stepik/images/stage3_19_hu_86efd1fe706636f5.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_19_hu_20763d0463628edd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;645&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Написан скрипт для вычисления НОД с помощью рекурсивной функции &amp;ldquo;gcd&amp;rdquo;, реализующей алгоритм Евклида. Скрипт ожидает ввода двух натуральных чисел, выводит результат и завершается по пустой строке словом «bye».&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание на НОД&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_20_hu_581dc4f2923a2d2d.webp 320w, http://localhost:1313/projects/stepik/images/stage3_20_hu_56f21b7f5c94ffcf.webp 480w, http://localhost:1313/projects/stepik/images/stage3_20_hu_a22a055902b88bc7.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_20_hu_581dc4f2923a2d2d.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;588&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Решение НОД&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_21_hu_ded9c06dba32036.webp 320w, http://localhost:1313/projects/stepik/images/stage3_21_hu_13ac04bd4cfe980e.webp 480w, http://localhost:1313/projects/stepik/images/stage3_21_hu_8bbec864ab09906e.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_21_hu_ded9c06dba32036.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;558&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;(Листинг скрипта удалён.)&lt;/p&gt;
+&lt;p&gt;Реализован калькулятор на bash, поддерживающий операции &amp;ldquo;+&amp;rdquo;, &amp;ldquo;-&amp;rdquo;, &amp;ldquo;*&amp;rdquo;, &amp;ldquo;/&amp;rdquo;, &amp;ldquo;%&amp;rdquo;, &amp;ldquo;**&amp;rdquo; и команду &amp;ldquo;exit&amp;rdquo;. При некорректном вводе выводится &amp;ldquo;error&amp;rdquo;, и скрипт завершается.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Задание на калькулятор&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_22_hu_b3733b34d758bbde.webp 320w, http://localhost:1313/projects/stepik/images/stage3_22_hu_9789e854e74f521e.webp 480w, http://localhost:1313/projects/stepik/images/stage3_22_hu_118cb08741a42485.webp 690w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_22_hu_b3733b34d758bbde.webp&#34;
+               width=&#34;690&#34;
+               height=&#34;632&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Решение калькулятора&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_23_hu_57c54fdd3bea8d31.webp 320w, http://localhost:1313/projects/stepik/images/stage3_23_hu_d8c9270264082a20.webp 480w, http://localhost:1313/projects/stepik/images/stage3_23_hu_23742543b616586d.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_23_hu_57c54fdd3bea8d31.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;552&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;(Листинг скрипта удалён.)&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-35-продвинутый-поиск-и-редактирование&#34;&gt;Выполнение 3.5. Продвинутый поиск и редактирование&lt;/h4&gt;
+&lt;p&gt;Команда &amp;ldquo;find -iname &amp;ldquo;star*&amp;rdquo;&amp;rdquo; находит больше файлов, чем &amp;ldquo;find -name &amp;ldquo;star*&amp;rdquo;&amp;rdquo;, так как игнорирует регистр. Из предложенного набора, которые найдет команда find /home/bi -iname &amp;ldquo;star*&amp;rdquo;, но НЕ найдет команда find /home/bi -name &amp;ldquo;star*&amp;rdquo; оказались &amp;ldquo;Star_Wars.avi&amp;rdquo; и &amp;ldquo;STARS.txt&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;find с -iname и -name&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_24_hu_4d705c8959ce1142.webp 320w, http://localhost:1313/projects/stepik/images/stage3_24_hu_7aa3ea170ae2e0fd.webp 480w, http://localhost:1313/projects/stepik/images/stage3_24_hu_db8b5623d8d11e21.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_24_hu_4d705c8959ce1142.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;460&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Опции &amp;ldquo;-path&amp;rdquo; и &amp;ldquo;-name&amp;rdquo; не всегда взаимозаменяемы: в одних случаях &amp;ldquo;-name&amp;rdquo; находит меньше файлов, в других — больше, в зависимости от шаблона, поэтому верные утверждения &amp;ldquo;В некоторых случаях find с -name найдет меньше файлов, чем find с таким же запросом, но с -path&amp;rdquo;, &amp;ldquo;В некоторых случаях find с -name найдет больше файлов, чем find с таким же запросом, но с -path&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Сравнение -path и -name&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_25_hu_f3972e98a178bc2b.webp 320w, http://localhost:1313/projects/stepik/images/stage3_25_hu_276be3d1d532f263.webp 480w, http://localhost:1313/projects/stepik/images/stage3_25_hu_a7aa73666d683d10.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_25_hu_f3972e98a178bc2b.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;441&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;При структуре &amp;ldquo;/home/bi/&amp;rdquo;, содержащей вложенные каталоги &amp;ldquo;dir1&amp;rdquo;, &amp;ldquo;dir2&amp;rdquo;, &amp;ldquo;dir3&amp;rdquo; с файлами &amp;ldquo;file1&amp;rdquo;, &amp;ldquo;file2&amp;rdquo;, &amp;ldquo;file3&amp;rdquo; соответственно, условие &amp;ldquo;-mindepth 2 -maxdepth 3&amp;rdquo; отсекает файлы, лежащие непосредственно в указанной директории (глубина 1). Под критерий попадают только файлы, расположенные на глубине 2 или 3. Таким образом, будут найдены &amp;ldquo;file1&amp;rdquo; и &amp;ldquo;file2&amp;rdquo;, но не &amp;ldquo;file3&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;mindepth и maxdepth в find&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_26_hu_a8d69c1ace1febd.webp 320w, http://localhost:1313/projects/stepik/images/stage3_26_hu_37c64152370bc311.webp 480w, http://localhost:1313/projects/stepik/images/stage3_26_hu_a57fa254e2694860.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_26_hu_a8d69c1ace1febd.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;531&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;При добавлении контекста (&amp;quot;-A&amp;quot;, &amp;ldquo;-B&amp;rdquo;, &amp;ldquo;-C&amp;rdquo;) к поиску слова, которое присутствует в каждой строке файла, размер результирующего файла не изменяется. Во всех четырёх случаях &amp;ldquo;results.txt&amp;rdquo; будет одинакового размера.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;сравнение размеров вывода grep с контекстом&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_27_hu_7ee4d30c1310b12e.webp 320w, http://localhost:1313/projects/stepik/images/stage3_27_hu_c83aa5ab7d484f1c.webp 480w, http://localhost:1313/projects/stepik/images/stage3_27_hu_c7bac6bd3643831e.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_27_hu_7ee4d30c1310b12e.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;460&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Регулярное выражение &amp;ldquo;[xklXKL]?[uU]buntu$&amp;rdquo; описывает строки, оканчивающиеся на &amp;ldquo;buntu&amp;rdquo; с возможной предшествующей буквой из набора. Единственная подходящая строка – &amp;ldquo;I prefer Kubuntu&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;grep с регулярным выражением&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_28_hu_4a0ead73dc1aa9ae.webp 320w, http://localhost:1313/projects/stepik/images/stage3_28_hu_187d93a3e7a2b60a.webp 480w, http://localhost:1313/projects/stepik/images/stage3_28_hu_febaa7a0a0ed637.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_28_hu_4a0ead73dc1aa9ae.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;442&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Если в &amp;ldquo;sed&amp;rdquo; опустить опцию &amp;ldquo;-n&amp;rdquo;, каждая строка, попавшая под шаблон, будет напечатана дважды: один раз из‑за автоматического вывода, второй – по команде &amp;ldquo;p&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;sed без -n&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_29_hu_860be152e67e1107.webp 320w, http://localhost:1313/projects/stepik/images/stage3_29_hu_650dc5d0f1f0daab.webp 480w, http://localhost:1313/projects/stepik/images/stage3_29_hu_274540d23f0682d0.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_29_hu_860be152e67e1107.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;442&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для замены «аббревиатур» (две и более заглавные латинские буквы) на слово &amp;ldquo;abbreviation&amp;rdquo; в файле &amp;ldquo;input.txt&amp;rdquo; с записью результата в &amp;ldquo;edited.txt&amp;rdquo; использована команда &amp;ldquo;sed &amp;rsquo;s/[A-Z]{2,}/abbreviation /g&amp;rsquo; input.txt &amp;gt; edited.txt&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Замена аббревиатур – условие&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_30_hu_b3bdf3b57bc65f02.webp 320w, http://localhost:1313/projects/stepik/images/stage3_30_hu_20aaa9c463a66822.webp 480w, http://localhost:1313/projects/stepik/images/stage3_30_hu_d70d12cc7d69b59d.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_30_hu_b3bdf3b57bc65f02.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;535&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Замена аббревиатур – решение&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_31_hu_8aa2bdadaa4decae.webp 320w, http://localhost:1313/projects/stepik/images/stage3_31_hu_73873491a8f539ae.webp 480w, http://localhost:1313/projects/stepik/images/stage3_31_hu_87d1023f3bfceaf7.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_31_hu_8aa2bdadaa4decae.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;574&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-36-строим-графики-в-gnuplot&#34;&gt;Выполнение 3.6. Строим графики в gnuplot&lt;/h4&gt;
+&lt;p&gt;Для того чтобы графики не закрывались при выходе из gnuplot, используется опция &amp;ldquo;-p&amp;rdquo; или &amp;ldquo;&amp;ndash;persist&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Сохранение графиков после закрытия gnuplot&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_32_hu_40cd51662e81833b.webp 320w, http://localhost:1313/projects/stepik/images/stage3_32_hu_29b2424e1a269013.webp 480w, http://localhost:1313/projects/stepik/images/stage3_32_hu_b9ad7d8b8fcee3db.webp 740w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_32_hu_40cd51662e81833b.webp&#34;
+               width=&#34;740&#34;
+               height=&#34;376&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Когда &amp;ldquo;data.csv&amp;rdquo; не содержит заголовка, а задано &amp;ldquo;set key autotitle columnhead&amp;rdquo;, первая строка используется как название кривой (второй столбец) и исключается из данных, поэтому на графике отображается 9 точек.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;autotitle columnhead без заголовка&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_33_hu_26c7dc485d300625.webp 320w, http://localhost:1313/projects/stepik/images/stage3_33_hu_e143f0df3f3a6277.webp 480w, http://localhost:1313/projects/stepik/images/stage3_33_hu_273e787523fa2e6f.webp 740w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_33_hu_26c7dc485d300625.webp&#34;
+               width=&#34;740&#34;
+               height=&#34;537&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Для размещения на оси OX только трёх заданных делений с текстовыми метками используется команда &amp;ldquo;set xtics&amp;rdquo;. Строки конкатенируются с помощью оператора &amp;ldquo;.&amp;rdquo;. Правильный ответ: &amp;ldquo;set xtics (&amp;lsquo;point 1, value &amp;lsquo;.x1 x1, &amp;lsquo;point 2, value &amp;lsquo;.x2 x2, &amp;lsquo;point 3, value &amp;lsquo;.x3 x3)&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Установка пользовательских xtics&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_34_hu_ab69b8374625b54b.webp 320w, http://localhost:1313/projects/stepik/images/stage3_34_hu_8b08101ce1348b1f.webp 480w, http://localhost:1313/projects/stepik/images/stage3_34_hu_310b340961557d1b.webp 740w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_34_hu_ab69b8374625b54b.webp&#34;
+               width=&#34;740&#34;
+               height=&#34;632&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Файл &amp;ldquo;move.rot&amp;rdquo; был изменён для зеркального отражения (&amp;ldquo;splot -x&lt;strong&gt;2-y&lt;/strong&gt;2&amp;rdquo;), вращения в обратную сторону (&amp;ldquo;zrot=(zrot+350)%360&amp;rdquo;) и удвоения скорости (&amp;ldquo;pause 0.1&amp;rdquo;). Это позволило получить требуемую анимацию.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Модифицированный move.rot&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_35_hu_116a220b00b5e34f.webp 320w, http://localhost:1313/projects/stepik/images/stage3_35_hu_f8a6278c5c893072.webp 480w, http://localhost:1313/projects/stepik/images/stage3_35_hu_161d92d54919834e.webp 740w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_35_hu_116a220b00b5e34f.webp&#34;
+               width=&#34;740&#34;
+               height=&#34;622&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id=&#34;выполнение-37-разное&#34;&gt;Выполнение 3.7. Разное&lt;/h4&gt;
+&lt;p&gt;Для превращения прав &amp;ldquo;r&amp;ndash;r&amp;ndash;r&amp;ndash;&amp;rdquo; в &amp;ldquo;rwxrw-r&amp;ndash;&amp;rdquo; подходят последовательности &amp;ldquo;chmod u+wx file.txt; chmod g+w file.txt&amp;rdquo;, &amp;ldquo;chmod ug+w file.txt; chmod u+x file.txt&amp;rdquo;, &amp;ldquo;chmod 764 file.txt&amp;rdquo;, &amp;ldquo;chmod a+wx file.txt; chmod o-wx file.txt; chmod g-x file.txt&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Изменение прав доступа&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_36_hu_cf1b7c17237b84c4.webp 320w, http://localhost:1313/projects/stepik/images/stage3_36_hu_fb43622def5eb218.webp 480w, http://localhost:1313/projects/stepik/images/stage3_36_hu_3ee48aabb5cc1908.webp 740w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_36_hu_cf1b7c17237b84c4.webp&#34;
+               width=&#34;740&#34;
+               height=&#34;524&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Чтобы пользователь из группы &amp;ldquo;group&amp;rdquo; мог создавать файлы в каталоге &amp;ldquo;dir&amp;rdquo;, принадлежащем root, можно использовать: &amp;ldquo;sudo chmod o+w dir&amp;rdquo; (добавляет право записи для «остальных» пользователей, к которым относится и user), &amp;ldquo;sudo chown user:group dir&amp;rdquo; (меняет владельца и группу каталога на user и group, после чего user получает полный контроль как владелец), &amp;ldquo;sudo chmod a+w dir&amp;rdquo; (даёт право записи всем, что разрешает user создавать файлы), &amp;ldquo;sudo chown user dir&amp;rdquo; (меняет только владельца на user, после чего user как владелец может записывать файлы в каталог).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Предоставление доступа к чужой директории&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_37_hu_bd4262056582d77f.webp 320w, http://localhost:1313/projects/stepik/images/stage3_37_hu_ddf9a4686e836083.webp 480w, http://localhost:1313/projects/stepik/images/stage3_37_hu_33ac4056e932c7c5.webp 627w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_37_hu_bd4262056582d77f.webp&#34;
+               width=&#34;627&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Утилита &amp;ldquo;wc&amp;rdquo; способна подсчитывать строки, слова, символы и длину самой длинной строки, но не количество конкретных букв.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Возможности wc&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_38_hu_71ee30650d8ec878.webp 320w, http://localhost:1313/projects/stepik/images/stage3_38_hu_e96dccbf6ccdd747.webp 480w, http://localhost:1313/projects/stepik/images/stage3_38_hu_33e2560163455cf.webp 653w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_38_hu_71ee30650d8ec878.webp&#34;
+               width=&#34;653&#34;
+               height=&#34;346&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Размер текущей директории в человеко‑читаемом формате выводится командой &amp;ldquo;du -h -s&amp;rdquo; (или &amp;ldquo;du -sh&amp;rdquo;). Ключ &amp;ldquo;-h&amp;rdquo; включает удобные единицы измерения, &amp;ldquo;-s&amp;rdquo; подводит итог.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Вывод размера директории&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_39_hu_6ea924a0d4261a57.webp 320w, http://localhost:1313/projects/stepik/images/stage3_39_hu_8862abd7793e1eab.webp 480w, http://localhost:1313/projects/stepik/images/stage3_39_hu_7821352c2d4f6e7c.webp 653w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_39_hu_6ea924a0d4261a57.webp&#34;
+               width=&#34;653&#34;
+               height=&#34;379&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Наиболее короткая команда для одновременного создания трёх поддиректорий &amp;ldquo;dir1&amp;rdquo;, &amp;ldquo;dir2&amp;rdquo;, &amp;ldquo;dir3&amp;rdquo; : &amp;ldquo;mkdir dir{1..3}&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;Кратчайшее создание нескольких каталогов&#34; 
+               srcset=&#34;http://localhost:1313/projects/stepik/images/stage3_40_hu_4b04dcd7ed8500a5.webp 320w, http://localhost:1313/projects/stepik/images/stage3_40_hu_2a61835fa0d63281.webp 480w, http://localhost:1313/projects/stepik/images/stage3_40_hu_d18986524b379362.webp 653w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/projects/stepik/images/stage3_40_hu_4b04dcd7ed8500a5.webp&#34;
+               width=&#34;653&#34;
+               height=&#34;337&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;выводы-2&#34;&gt;Выводы&lt;/h3&gt;
+&lt;p&gt;В ходе выполнения третьего этапа курса «Введение в Linux» были освоены продвинутые приёмы работы в vim, написание сценариев на bash с условными переходами и циклами, использование функций, регулярные выражения в grep и sed, построение и анимация графиков в gnuplot, а также ряд полезных утилит (wc, du, chmod)&lt;/p&gt;
+&lt;h3 id=&#34;список-литературы-2&#34;&gt;Список литературы&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Курс «Введение в Linux» на платформе Stepik [Электронный ресурс] URL: 
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;итоговое-заключение&#34;&gt;Итоговое заключение&lt;/h2&gt;
+&lt;p&gt;В результате выполнения всех трёх этапов курса были получены фундаментальные и практические знания об операционной системе Linux: от базовой работы в командной строке до написания сложных сценариев на bash, работы с удалёнными серверами, управления процессами, использования текстового редактора vim, фильтрации текста с помощью регулярных выражений и построения графиков в gnuplot. Все задания успешно сданы, подтверждены соответствующими скриншотами.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

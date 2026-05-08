@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Управление Версиями | </title>
-    <link>http://localhost:1313/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8/</link>
-      <atom:link href="http://localhost:1313/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ivanovaangelina.github.io/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8/</link>
+      <atom:link href="https://ivanovaangelina.github.io/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     <description>Управление Версиями</description>
     <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_da05098ef60dc2e7.png</url>
+      <url>https://ivanovaangelina.github.io/media/icon_hu_da05098ef60dc2e7.png</url>
       <title>Управление Версиями</title>
-      <link>http://localhost:1313/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8/</link>
+      <link>https://ivanovaangelina.github.io/tags/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8/</link>
     </image>
     
     <item>
       <title>Система версий. Git</title>
-      <link>http://localhost:1313/publications/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.-git/</link>
+      <link>https://ivanovaangelina.github.io/publications/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.-git/</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.-git/</guid>
+      <guid>https://ivanovaangelina.github.io/publications/%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8.-git/</guid>
       <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
 &lt;p&gt;Проблема воспроизводимости результатов является одной из фундаментальных в современной науке [1]. Традиционные методы работы, основанные на сохранении версий файлов с пометками &amp;ldquo;финальная&amp;rdquo;, &amp;ldquo;финальная_2&amp;rdquo; или &amp;ldquo;окончательная_версия_3&amp;rdquo;, не отвечают требованиям системности и прозрачности. Системы контроля версий (VCS), изначально разработанные для сопровождения разработки программного обеспечения, предлагают методологически строгий подход к организации исследовательского процесса.&lt;/p&gt;
 &lt;p&gt;Git, созданный Линусом Торвальдсом в 2005 году, стал стандартом в области управления версиями. Его распределенная архитектура, производительность и надежность делают его применимым не только для кода, но и для управления текстовыми файлами, данными и даже целыми научными рукописями, подготовленными в форматах LaTeX или Markdown.&lt;/p&gt;
